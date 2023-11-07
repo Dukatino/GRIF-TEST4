@@ -1,0 +1,2470 @@
+[
+  [
+    {
+      "date": "2013-01-19",
+      "match": "Philadelphia - Pittsburgh",
+      "1": "2.70",
+      "1-bool": false,
+      "x": "4.20",
+      "x-bool": false,
+      "2": "2.40",
+      "2-bool": true
+    },
+    {
+      "date": "2013-01-19",
+      "match": "Winnipeg - Ottawa",
+      "1": "2.35",
+      "1-bool": false,
+      "x": "4.20",
+      "x-bool": false,
+      "2": "2.65",
+      "2-bool": true
+    },
+    {
+      "date": "2013-01-19",
+      "match": "Los Angeles - Chicago",
+      "1": "2.45",
+      "1-bool": false,
+      "x": "4.20",
+      "x-bool": false,
+      "2": "2.75",
+      "2-bool": true
+    },
+    {
+      "date": "2013-01-20",
+      "match": "Tampa Bay - Washington",
+      "1": "2.45",
+      "1-bool": true,
+      "x": "4.00",
+      "x-bool": false,
+      "2": "2.55",
+      "2-bool": false
+    },
+    {
+      "date": "2013-01-20",
+      "match": "NY Islanders - New Jersey",
+      "1": "2.79",
+      "1-bool": false,
+      "x": "4.00",
+      "x-bool": false,
+      "2": "2.38",
+      "2-bool": true
+    },
+    {
+      "date": "2013-01-20",
+      "match": "Montreal - Toronto",
+      "1": "2.25",
+      "1-bool": false,
+      "x": "4.00",
+      "x-bool": false,
+      "2": "2.90",
+      "2-bool": true
+    },
+    {
+      "date": "2013-01-20",
+      "match": "Boston - NY Rangers",
+      "1": "2.30",
+      "1-bool": true,
+      "x": "4.20",
+      "x-bool": false,
+      "2": "3.10",
+      "2-bool": false
+    },
+    {
+      "date": "2013-01-20",
+      "match": "Florida - Carolina",
+      "1": "2.54",
+      "1-bool": true,
+      "x": "3.85",
+      "x-bool": false,
+      "2": "2.75",
+      "2-bool": false
+    },
+    {
+      "date": "2013-01-20",
+      "match": "St. Louis - Detroit",
+      "1": "2.25",
+      "1-bool": true,
+      "x": "4.00",
+      "x-bool": false,
+      "2": "2.90",
+      "2-bool": false
+    },
+    {
+      "date": "2013-01-20",
+      "match": "Nashville - Columbus",
+      "1": "1.95",
+      "1-bool": false,
+      "x": "4.33",
+      "x-bool": true,
+      "2": "3.60",
+      "2-bool": false
+    },
+    {
+      "date": "2013-01-20",
+      "match": "Dallas - Phoenix",
+      "1": "2.40",
+      "1-bool": true,
+      "x": "4.20",
+      "x-bool": false,
+      "2": "2.90",
+      "2-bool": false
+    },
+    {
+      "date": "2013-01-20",
+      "match": "Minnesota - Colorado",
+      "1": "2.25",
+      "1-bool": true,
+      "x": "4.10",
+      "x-bool": false,
+      "2": "3.10",
+      "2-bool": false
+    },
+    {
+      "date": "2013-01-20",
+      "match": "Vancouver - Anaheim",
+      "1": "2.10",
+      "1-bool": false,
+      "x": "4.33",
+      "x-bool": false,
+      "2": "3.40",
+      "2-bool": true
+    },
+    {
+      "date": "2013-01-20",
+      "match": "Buffalo - Philadelphia",
+      "1": "2.35",
+      "1-bool": true,
+      "x": "4.00",
+      "x-bool": false,
+      "2": "2.70",
+      "2-bool": false
+    },
+    {
+      "date": "2013-01-21",
+      "match": "Calgary - San Jose",
+      "1": "2.89",
+      "1-bool": false,
+      "x": "3.85",
+      "x-bool": false,
+      "2": "2.47",
+      "2-bool": true
+    },
+    {
+      "date": "2013-01-21",
+      "match": "NY Rangers - Pittsburgh",
+      "1": "2.50",
+      "1-bool": false,
+      "x": "3.85",
+      "x-bool": false,
+      "2": "2.55",
+      "2-bool": true
+    },
+    {
+      "date": "2013-01-21",
+      "match": "Minnesota - Dallas",
+      "1": "2.10",
+      "1-bool": true,
+      "x": "4.00",
+      "x-bool": false,
+      "2": "3.29",
+      "2-bool": false
+    },
+    {
+      "date": "2013-01-21",
+      "match": "Vancouver - Edmonton",
+      "1": "2.20",
+      "1-bool": false,
+      "x": "4.00",
+      "x-bool": true,
+      "2": "3.05",
+      "2-bool": false
+    },
+    {
+      "date": "2013-01-21",
+      "match": "Phoenix - Chicago",
+      "1": "2.60",
+      "1-bool": false,
+      "x": "3.85",
+      "x-bool": false,
+      "2": "2.50",
+      "2-bool": true
+    },
+    {
+      "date": "2013-01-21",
+      "match": "Boston - Winnipeg",
+      "1": "1.83",
+      "1-bool": false,
+      "x": "4.33",
+      "x-bool": true,
+      "2": "4.00",
+      "2-bool": false
+    },
+    {
+      "date": "2013-01-21",
+      "match": "NY Islanders - Tampa Bay",
+      "1": "2.65",
+      "1-bool": true,
+      "x": "4.00",
+      "x-bool": false,
+      "2": "2.45",
+      "2-bool": false
+    },
+    {
+      "date": "2013-01-22",
+      "match": "Nashville - St. Louis",
+      "1": "2.89",
+      "1-bool": false,
+      "x": "4.00",
+      "x-bool": true,
+      "2": "2.45",
+      "2-bool": false
+    },
+    {
+      "date": "2013-01-22",
+      "match": "Toronto - Buffalo",
+      "1": "2.38",
+      "1-bool": false,
+      "x": "3.85",
+      "x-bool": false,
+      "2": "2.65",
+      "2-bool": true
+    },
+    {
+      "date": "2013-01-22",
+      "match": "Ottawa - Florida",
+      "1": "2.15",
+      "1-bool": true,
+      "x": "4.05",
+      "x-bool": false,
+      "2": "3.00",
+      "2-bool": false
+    },
+    {
+      "date": "2013-01-22",
+      "match": "Columbus - Detroit",
+      "1": "2.79",
+      "1-bool": false,
+      "x": "3.95",
+      "x-bool": true,
+      "2": "2.38",
+      "2-bool": false
+    },
+    {
+      "date": "2013-01-22",
+      "match": "Calgary - Anaheim",
+      "1": "2.64",
+      "1-bool": false,
+      "x": "3.85",
+      "x-bool": false,
+      "2": "2.45",
+      "2-bool": true
+    },
+    {
+      "date": "2013-01-23",
+      "match": "Washington - Winnipeg",
+      "1": "2.00",
+      "1-bool": false,
+      "x": "4.33",
+      "x-bool": false,
+      "2": "3.55",
+      "2-bool": true
+    },
+    {
+      "date": "2013-01-23",
+      "match": "Carolina - Tampa Bay",
+      "1": "2.20",
+      "1-bool": false,
+      "x": "4.05",
+      "x-bool": false,
+      "2": "3.20",
+      "2-bool": true
+    },
+    {
+      "date": "2013-01-23",
+      "match": "Detroit - Dallas",
+      "1": "2.25",
+      "1-bool": false,
+      "x": "4.00",
+      "x-bool": false,
+      "2": "3.00",
+      "2-bool": true
+    },
+    {
+      "date": "2013-01-23",
+      "match": "New Jersey - Philadelphia",
+      "1": "2.50",
+      "1-bool": true,
+      "x": "3.95",
+      "x-bool": false,
+      "2": "2.60",
+      "2-bool": false
+    },
+    {
+      "date": "2013-01-23",
+      "match": "Montreal - Florida",
+      "1": "2.10",
+      "1-bool": true,
+      "x": "4.05",
+      "x-bool": false,
+      "2": "3.10",
+      "2-bool": false
+    },
+    {
+      "date": "2013-01-23",
+      "match": "Minnesota - Nashville",
+      "1": "2.20",
+      "1-bool": false,
+      "x": "4.05",
+      "x-bool": false,
+      "2": "3.20",
+      "2-bool": true
+    },
+    {
+      "date": "2013-01-23",
+      "match": "Chicago - St. Louis",
+      "1": "2.38",
+      "1-bool": true,
+      "x": "3.85",
+      "x-bool": false,
+      "2": "2.80",
+      "2-bool": false
+    },
+    {
+      "date": "2013-01-23",
+      "match": "Colorado - Los Angeles",
+      "1": "2.70",
+      "1-bool": true,
+      "x": "3.85",
+      "x-bool": false,
+      "2": "2.50",
+      "2-bool": false
+    },
+    {
+      "date": "2013-01-23",
+      "match": "Edmonton - San Jose",
+      "1": "2.64",
+      "1-bool": false,
+      "x": "3.95",
+      "x-bool": false,
+      "2": "2.50",
+      "2-bool": true
+    },
+    {
+      "date": "2013-01-24",
+      "match": "Pittsburgh - Toronto",
+      "1": "1.75",
+      "1-bool": false,
+      "x": "4.50",
+      "x-bool": false,
+      "2": "4.20",
+      "2-bool": true
+    },
+    {
+      "date": "2013-01-24",
+      "match": "NY Rangers - Boston",
+      "1": "2.38",
+      "1-bool": false,
+      "x": "3.85",
+      "x-bool": true,
+      "2": "2.89",
+      "2-bool": false
+    },
+    {
+      "date": "2013-01-24",
+      "match": "Vancouver - Calgary",
+      "1": "1.90",
+      "1-bool": false,
+      "x": "4.25",
+      "x-bool": true,
+      "2": "3.65",
+      "2-bool": false
+    },
+    {
+      "date": "2013-01-24",
+      "match": "Phoenix - Columbus",
+      "1": "2.05",
+      "1-bool": true,
+      "x": "4.15",
+      "x-bool": false,
+      "2": "3.30",
+      "2-bool": false
+    },
+    {
+      "date": "2013-01-25",
+      "match": "Carolina - Buffalo",
+      "1": "2.38",
+      "1-bool": true,
+      "x": "3.95",
+      "x-bool": false,
+      "2": "2.75",
+      "2-bool": false
+    },
+    {
+      "date": "2013-01-25",
+      "match": "Washington - Montreal",
+      "1": "2.25",
+      "1-bool": false,
+      "x": "4.00",
+      "x-bool": false,
+      "2": "2.90",
+      "2-bool": true
+    },
+    {
+      "date": "2013-01-25",
+      "match": "Philadelphia - NY Rangers",
+      "1": "2.60",
+      "1-bool": true,
+      "x": "3.95",
+      "x-bool": false,
+      "2": "2.60",
+      "2-bool": false
+    },
+    {
+      "date": "2013-01-25",
+      "match": "Toronto - NY Islanders",
+      "1": "2.45",
+      "1-bool": false,
+      "x": "3.95",
+      "x-bool": false,
+      "2": "2.75",
+      "2-bool": true
+    },
+    {
+      "date": "2013-01-25",
+      "match": "Florida - Ottawa",
+      "1": "2.89",
+      "1-bool": false,
+      "x": "3.95",
+      "x-bool": false,
+      "2": "2.42",
+      "2-bool": true
+    },
+    {
+      "date": "2013-01-25",
+      "match": "St. Louis - Nashville",
+      "1": "2.05",
+      "1-bool": true,
+      "x": "4.15",
+      "x-bool": false,
+      "2": "3.50",
+      "2-bool": false
+    },
+    {
+      "date": "2013-01-25",
+      "match": "Dallas - Chicago",
+      "1": "2.75",
+      "1-bool": false,
+      "x": "4.00",
+      "x-bool": true,
+      "2": "2.30",
+      "2-bool": false
+    },
+    {
+      "date": "2013-01-25",
+      "match": "Colorado - Columbus",
+      "1": "2.00",
+      "1-bool": true,
+      "x": "4.10",
+      "x-bool": false,
+      "2": "3.40",
+      "2-bool": false
+    },
+    {
+      "date": "2013-01-25",
+      "match": "Edmonton - Los Angeles",
+      "1": "2.89",
+      "1-bool": false,
+      "x": "3.90",
+      "x-bool": true,
+      "2": "2.30",
+      "2-bool": false
+    },
+    {
+      "date": "2013-01-25",
+      "match": "San Jose - Phoenix",
+      "1": "1.90",
+      "1-bool": true,
+      "x": "4.25",
+      "x-bool": false,
+      "2": "3.75",
+      "2-bool": false
+    },
+    {
+      "date": "2013-01-26",
+      "match": "New Jersey - Washington",
+      "1": "2.10",
+      "1-bool": false,
+      "x": "4.05",
+      "x-bool": true,
+      "2": "3.29",
+      "2-bool": false
+    },
+    {
+      "date": "2013-01-26",
+      "match": "Buffalo - Carolina",
+      "1": "2.10",
+      "1-bool": false,
+      "x": "4.15",
+      "x-bool": false,
+      "2": "3.20",
+      "2-bool": true
+    },
+    {
+      "date": "2013-01-26",
+      "match": "Boston - NY Islanders",
+      "1": "1.85",
+      "1-bool": true,
+      "x": "4.30",
+      "x-bool": false,
+      "2": "3.90",
+      "2-bool": false
+    },
+    {
+      "date": "2013-01-26",
+      "match": "Tampa Bay - Ottawa",
+      "1": "2.30",
+      "1-bool": true,
+      "x": "4.00",
+      "x-bool": false,
+      "2": "2.80",
+      "2-bool": false
+    },
+    {
+      "date": "2013-01-26",
+      "match": "Detroit - Minnesota",
+      "1": "2.40",
+      "1-bool": true,
+      "x": "3.95",
+      "x-bool": false,
+      "2": "2.75",
+      "2-bool": false
+    },
+    {
+      "date": "2013-01-26",
+      "match": "Winnipeg - Pittsburgh",
+      "1": "3.00",
+      "1-bool": true,
+      "x": "4.00",
+      "x-bool": false,
+      "2": "2.20",
+      "2-bool": false
+    },
+    {
+      "date": "2013-01-26",
+      "match": "Anaheim - Vancouver",
+      "1": "2.50",
+      "1-bool": false,
+      "x": "3.95",
+      "x-bool": false,
+      "2": "2.60",
+      "2-bool": true
+    },
+    {
+      "date": "2013-01-26",
+      "match": "San Jose - Colorado",
+      "1": "2.00",
+      "1-bool": true,
+      "x": "4.10",
+      "x-bool": false,
+      "2": "3.35",
+      "2-bool": false
+    },
+    {
+      "date": "2013-01-27",
+      "match": "NY Rangers - Toronto",
+      "1": "1.91",
+      "1-bool": true,
+      "x": "4.20",
+      "x-bool": false,
+      "2": "3.60",
+      "2-bool": false
+    },
+    {
+      "date": "2013-01-27",
+      "match": "Columbus - Chicago",
+      "1": "3.39",
+      "1-bool": false,
+      "x": "4.10",
+      "x-bool": false,
+      "2": "2.05",
+      "2-bool": true
+    },
+    {
+      "date": "2013-01-27",
+      "match": "Florida - Philadelphia",
+      "1": "2.70",
+      "1-bool": false,
+      "x": "3.95",
+      "x-bool": false,
+      "2": "2.40",
+      "2-bool": true
+    },
+    {
+      "date": "2013-01-27",
+      "match": "Phoenix - Los Angeles",
+      "1": "2.89",
+      "1-bool": false,
+      "x": "3.95",
+      "x-bool": false,
+      "2": "2.40",
+      "2-bool": true
+    },
+    {
+      "date": "2013-01-27",
+      "match": "Dallas - St. Louis",
+      "1": "3.39",
+      "1-bool": false,
+      "x": "4.00",
+      "x-bool": false,
+      "2": "2.20",
+      "2-bool": true
+    },
+    {
+      "date": "2013-01-27",
+      "match": "Calgary - Edmonton",
+      "1": "2.35",
+      "1-bool": true,
+      "x": "3.95",
+      "x-bool": false,
+      "2": "2.75",
+      "2-bool": false
+    },
+    {
+      "date": "2013-01-27",
+      "match": "Anaheim - Nashville",
+      "1": "2.64",
+      "1-bool": false,
+      "x": "3.95",
+      "x-bool": true,
+      "2": "2.60",
+      "2-bool": false
+    },
+    {
+      "date": "2013-01-27",
+      "match": "Washington - Buffalo",
+      "1": "2.35",
+      "1-bool": true,
+      "x": "3.95",
+      "x-bool": false,
+      "2": "2.79",
+      "2-bool": false
+    },
+    {
+      "date": "2013-01-27",
+      "match": "Ottawa - Pittsburgh",
+      "1": "2.55",
+      "1-bool": false,
+      "x": "3.95",
+      "x-bool": true,
+      "2": "2.60",
+      "2-bool": false
+    },
+    {
+      "date": "2013-01-28",
+      "match": "Tampa Bay - Philadelphia",
+      "1": "2.24",
+      "1-bool": true,
+      "x": "4.05",
+      "x-bool": false,
+      "2": "3.00",
+      "2-bool": false
+    },
+    {
+      "date": "2013-01-28",
+      "match": "Montreal - New Jersey",
+      "1": "2.54",
+      "1-bool": false,
+      "x": "3.90",
+      "x-bool": true,
+      "2": "2.54",
+      "2-bool": false
+    },
+    {
+      "date": "2013-01-28",
+      "match": "Chicago - Detroit",
+      "1": "2.16",
+      "1-bool": false,
+      "x": "4.05",
+      "x-bool": true,
+      "2": "3.10",
+      "2-bool": false
+    },
+    {
+      "date": "2013-01-28",
+      "match": "Winnipeg - NY Islanders",
+      "1": "2.20",
+      "1-bool": false,
+      "x": "4.00",
+      "x-bool": true,
+      "2": "2.90",
+      "2-bool": false
+    },
+    {
+      "date": "2013-01-28",
+      "match": "San Jose - Vancouver",
+      "1": "2.30",
+      "1-bool": true,
+      "x": "3.95",
+      "x-bool": false,
+      "2": "2.80",
+      "2-bool": false
+    },
+    {
+      "date": "2013-01-28",
+      "match": "St. Louis - Minnesota",
+      "1": "2.05",
+      "1-bool": false,
+      "x": "4.15",
+      "x-bool": true,
+      "2": "3.29",
+      "2-bool": false
+    },
+    {
+      "date": "2013-01-29",
+      "match": "Columbus - Dallas",
+      "1": "2.79",
+      "1-bool": true,
+      "x": "3.95",
+      "x-bool": false,
+      "2": "2.40",
+      "2-bool": false
+    },
+    {
+      "date": "2013-01-29",
+      "match": "Carolina - Boston",
+      "1": "2.65",
+      "1-bool": false,
+      "x": "3.95",
+      "x-bool": false,
+      "2": "2.50",
+      "2-bool": true
+    },
+    {
+      "date": "2013-01-29",
+      "match": "Phoenix - Nashville",
+      "1": "2.64",
+      "1-bool": true,
+      "x": "3.95",
+      "x-bool": false,
+      "2": "2.50",
+      "2-bool": false
+    },
+    {
+      "date": "2013-01-29",
+      "match": "Edmonton - Colorado",
+      "1": "2.25",
+      "1-bool": true,
+      "x": "3.95",
+      "x-bool": false,
+      "2": "3.00",
+      "2-bool": false
+    },
+    {
+      "date": "2013-01-29",
+      "match": "Los Angeles - Vancouver",
+      "1": "2.20",
+      "1-bool": false,
+      "x": "4.00",
+      "x-bool": true,
+      "2": "3.10",
+      "2-bool": false
+    },
+    {
+      "date": "2013-01-30",
+      "match": "NY Rangers - Philadelphia",
+      "1": "2.00",
+      "1-bool": true,
+      "x": "4.15",
+      "x-bool": false,
+      "2": "3.45",
+      "2-bool": false
+    },
+    {
+      "date": "2013-01-30",
+      "match": "Buffalo - Toronto",
+      "1": "2.10",
+      "1-bool": false,
+      "x": "4.02",
+      "x-bool": true,
+      "2": "3.25",
+      "2-bool": false
+    },
+    {
+      "date": "2013-01-30",
+      "match": "Boston - New Jersey",
+      "1": "2.10",
+      "1-bool": false,
+      "x": "4.10",
+      "x-bool": true,
+      "2": "3.50",
+      "2-bool": false
+    },
+    {
+      "date": "2013-01-30",
+      "match": "Tampa Bay - Florida",
+      "1": "1.95",
+      "1-bool": true,
+      "x": "4.20",
+      "x-bool": false,
+      "2": "3.50",
+      "2-bool": false
+    },
+    {
+      "date": "2013-01-30",
+      "match": "Montreal - Winnipeg",
+      "1": "2.25",
+      "1-bool": true,
+      "x": "3.95",
+      "x-bool": false,
+      "2": "3.00",
+      "2-bool": false
+    },
+    {
+      "date": "2013-01-30",
+      "match": "Detroit - Dallas",
+      "1": "2.05",
+      "1-bool": true,
+      "x": "4.10",
+      "x-bool": false,
+      "2": "3.39",
+      "2-bool": false
+    },
+    {
+      "date": "2013-01-30",
+      "match": "Pittsburgh - NY Islanders",
+      "1": "1.76",
+      "1-bool": false,
+      "x": "4.40",
+      "x-bool": false,
+      "2": "4.00",
+      "2-bool": true
+    },
+    {
+      "date": "2013-01-30",
+      "match": "Ottawa - Washington",
+      "1": "2.10",
+      "1-bool": true,
+      "x": "4.00",
+      "x-bool": false,
+      "2": "3.00",
+      "2-bool": false
+    },
+    {
+      "date": "2013-01-30",
+      "match": "Minnesota - Columbus",
+      "1": "1.90",
+      "1-bool": true,
+      "x": "4.25",
+      "x-bool": false,
+      "2": "3.75",
+      "2-bool": false
+    },
+    {
+      "date": "2013-01-30",
+      "match": "San Jose - Anaheim",
+      "1": "1.95",
+      "1-bool": false,
+      "x": "4.10",
+      "x-bool": true,
+      "2": "3.55",
+      "2-bool": false
+    },
+    {
+      "date": "2013-01-31",
+      "match": "Ottawa - Montreal",
+      "1": "2.10",
+      "1-bool": true,
+      "x": "4.15",
+      "x-bool": false,
+      "2": "3.20",
+      "2-bool": false
+    },
+    {
+      "date": "2013-01-31",
+      "match": "Minnesota - Chicago",
+      "1": "2.89",
+      "1-bool": false,
+      "x": "3.95",
+      "x-bool": true,
+      "2": "2.35",
+      "2-bool": false
+    },
+    {
+      "date": "2013-01-31",
+      "match": "Phoenix - Edmonton",
+      "1": "2.30",
+      "1-bool": false,
+      "x": "3.95",
+      "x-bool": true,
+      "2": "2.79",
+      "2-bool": false
+    },
+    {
+      "date": "2013-01-31",
+      "match": "Vancouver - Colorado",
+      "1": "1.95",
+      "1-bool": true,
+      "x": "4.25",
+      "x-bool": false,
+      "2": "3.75",
+      "2-bool": false
+    },
+    {
+      "date": "2013-02-01",
+      "match": "NY Rangers - Pittsburgh",
+      "1": "2.50",
+      "1-bool": false,
+      "x": "4.00",
+      "x-bool": false,
+      "2": "2.65",
+      "2-bool": true
+    },
+    {
+      "date": "2013-02-01",
+      "match": "New Jersey - NY Islanders",
+      "1": "2.15",
+      "1-bool": false,
+      "x": "4.05",
+      "x-bool": true,
+      "2": "3.20",
+      "2-bool": false
+    },
+    {
+      "date": "2013-02-01",
+      "match": "Columbus - St. Louis",
+      "1": "3.75",
+      "1-bool": false,
+      "x": "4.20",
+      "x-bool": false,
+      "2": "1.97",
+      "2-bool": true
+    },
+    {
+      "date": "2013-02-01",
+      "match": "Toronto - Washington",
+      "1": "2.50",
+      "1-bool": true,
+      "x": "3.85",
+      "x-bool": false,
+      "2": "2.60",
+      "2-bool": false
+    },
+    {
+      "date": "2013-02-01",
+      "match": "Boston - Buffalo",
+      "1": "1.90",
+      "1-bool": false,
+      "x": "4.30",
+      "x-bool": false,
+      "2": "3.65",
+      "2-bool": true
+    },
+    {
+      "date": "2013-02-01",
+      "match": "Florida - Winnipeg",
+      "1": "2.65",
+      "1-bool": true,
+      "x": "3.95",
+      "x-bool": false,
+      "2": "2.50",
+      "2-bool": false
+    },
+    {
+      "date": "2013-02-01",
+      "match": "Calgary - Colorado",
+      "1": "2.05",
+      "1-bool": false,
+      "x": "4.15",
+      "x-bool": false,
+      "2": "3.50",
+      "2-bool": true
+    },
+    {
+      "date": "2013-02-01",
+      "match": "Los Angeles - Nashville",
+      "1": "2.05",
+      "1-bool": false,
+      "x": "4.15",
+      "x-bool": true,
+      "2": "3.29",
+      "2-bool": false
+    },
+    {
+      "date": "2013-02-01",
+      "match": "San Jose - Edmonton",
+      "1": "1.85",
+      "1-bool": false,
+      "x": "4.30",
+      "x-bool": true,
+      "2": "3.75",
+      "2-bool": false
+    },
+    {
+      "date": "2013-02-02",
+      "match": "Carolina - Ottawa",
+      "1": "2.40",
+      "1-bool": true,
+      "x": "3.95",
+      "x-bool": false,
+      "2": "2.64",
+      "2-bool": false
+    },
+    {
+      "date": "2013-02-02",
+      "match": "Washington - Philadelphia",
+      "1": "2.64",
+      "1-bool": true,
+      "x": "3.95",
+      "x-bool": false,
+      "2": "2.55",
+      "2-bool": false
+    },
+    {
+      "date": "2013-02-02",
+      "match": "Tampa Bay - Winnipeg",
+      "1": "1.90",
+      "1-bool": true,
+      "x": "4.30",
+      "x-bool": false,
+      "2": "3.75",
+      "2-bool": false
+    },
+    {
+      "date": "2013-02-02",
+      "match": "Detroit - St. Louis",
+      "1": "2.50",
+      "1-bool": true,
+      "x": "3.90",
+      "x-bool": false,
+      "2": "2.55",
+      "2-bool": false
+    },
+    {
+      "date": "2013-02-02",
+      "match": "Dallas - Phoenix",
+      "1": "2.45",
+      "1-bool": false,
+      "x": "3.95",
+      "x-bool": true,
+      "2": "2.85",
+      "2-bool": false
+    },
+    {
+      "date": "2013-02-02",
+      "match": "Vancouver - Chicago",
+      "1": "2.35",
+      "1-bool": false,
+      "x": "3.95",
+      "x-bool": true,
+      "2": "2.90",
+      "2-bool": false
+    },
+    {
+      "date": "2013-02-02",
+      "match": "Anaheim - Minnesota",
+      "1": "2.30",
+      "1-bool": true,
+      "x": "3.95",
+      "x-bool": false,
+      "2": "2.75",
+      "2-bool": false
+    },
+    {
+      "date": "2013-02-02",
+      "match": "Pittsburgh - New Jersey",
+      "1": "2.00",
+      "1-bool": true,
+      "x": "4.20",
+      "x-bool": false,
+      "2": "3.45",
+      "2-bool": false
+    },
+    {
+      "date": "2013-02-02",
+      "match": "Montreal - Buffalo",
+      "1": "2.30",
+      "1-bool": true,
+      "x": "4.00",
+      "x-bool": false,
+      "2": "2.80",
+      "2-bool": false
+    },
+    {
+      "date": "2013-02-02",
+      "match": "Colorado - Edmonton",
+      "1": "2.35",
+      "1-bool": true,
+      "x": "3.95",
+      "x-bool": false,
+      "2": "2.70",
+      "2-bool": false
+    },
+    {
+      "date": "2013-02-03",
+      "match": "Columbus - Detroit",
+      "1": "2.90",
+      "1-bool": true,
+      "x": "3.95",
+      "x-bool": false,
+      "2": "2.20",
+      "2-bool": false
+    },
+    {
+      "date": "2013-02-03",
+      "match": "Tampa Bay - NY Rangers",
+      "1": "2.30",
+      "1-bool": false,
+      "x": "3.95",
+      "x-bool": false,
+      "2": "2.80",
+      "2-bool": true
+    },
+    {
+      "date": "2013-02-03",
+      "match": "Philadelphia - Carolina",
+      "1": "2.25",
+      "1-bool": true,
+      "x": "4.05",
+      "x-bool": false,
+      "2": "3.00",
+      "2-bool": false
+    },
+    {
+      "date": "2013-02-03",
+      "match": "Toronto - Boston",
+      "1": "3.20",
+      "1-bool": false,
+      "x": "4.00",
+      "x-bool": false,
+      "2": "2.19",
+      "2-bool": true
+    },
+    {
+      "date": "2013-02-03",
+      "match": "Phoenix - Dallas",
+      "1": "2.25",
+      "1-bool": true,
+      "x": "4.05",
+      "x-bool": false,
+      "2": "3.25",
+      "2-bool": false
+    },
+    {
+      "date": "2013-02-03",
+      "match": "Calgary - Chicago",
+      "1": "2.65",
+      "1-bool": false,
+      "x": "3.95",
+      "x-bool": true,
+      "2": "2.60",
+      "2-bool": false
+    },
+    {
+      "date": "2013-02-03",
+      "match": "Anaheim - Los Angeles",
+      "1": "2.75",
+      "1-bool": true,
+      "x": "3.85",
+      "x-bool": false,
+      "2": "2.50",
+      "2-bool": false
+    },
+    {
+      "date": "2013-02-03",
+      "match": "San Jose - Nashville",
+      "1": "1.95",
+      "1-bool": false,
+      "x": "4.15",
+      "x-bool": true,
+      "2": "3.79",
+      "2-bool": false
+    },
+    {
+      "date": "2013-02-03",
+      "match": "Washington - Pittsburgh",
+      "1": "3.00",
+      "1-bool": false,
+      "x": "4.00",
+      "x-bool": false,
+      "2": "2.25",
+      "2-bool": true
+    },
+    {
+      "date": "2013-02-03",
+      "match": "Montreal - Ottawa",
+      "1": "2.30",
+      "1-bool": true,
+      "x": "3.95",
+      "x-bool": false,
+      "2": "2.90",
+      "2-bool": false
+    },
+    {
+      "date": "2013-02-03",
+      "match": "Buffalo - Florida",
+      "1": "2.15",
+      "1-bool": false,
+      "x": "4.00",
+      "x-bool": false,
+      "2": "3.25",
+      "2-bool": true
+    },
+    {
+      "date": "2013-02-03",
+      "match": "NY Islanders - New Jersey",
+      "1": "2.40",
+      "1-bool": false,
+      "x": "3.95",
+      "x-bool": false,
+      "2": "2.80",
+      "2-bool": true
+    },
+    {
+      "date": "2013-02-05",
+      "match": "Toronto - Carolina",
+      "1": "2.40",
+      "1-bool": false,
+      "x": "3.95",
+      "x-bool": false,
+      "2": "2.60",
+      "2-bool": true
+    },
+    {
+      "date": "2013-02-05",
+      "match": "Phoenix - Minnesota",
+      "1": "2.30",
+      "1-bool": true,
+      "x": "3.85",
+      "x-bool": false,
+      "2": "3.10",
+      "2-bool": false
+    },
+    {
+      "date": "2013-02-05",
+      "match": "Colorado - Dallas",
+      "1": "2.25",
+      "1-bool": false,
+      "x": "3.95",
+      "x-bool": false,
+      "2": "3.10",
+      "2-bool": true
+    },
+    {
+      "date": "2013-02-05",
+      "match": "Edmonton - Vancouver",
+      "1": "2.89",
+      "1-bool": false,
+      "x": "4.00",
+      "x-bool": true,
+      "2": "2.35",
+      "2-bool": false
+    },
+    {
+      "date": "2013-02-05",
+      "match": "Anaheim - San Jose",
+      "1": "2.55",
+      "1-bool": true,
+      "x": "3.90",
+      "x-bool": false,
+      "2": "2.50",
+      "2-bool": false
+    },
+    {
+      "date": "2013-02-06",
+      "match": "Columbus - Los Angeles",
+      "1": "3.20",
+      "1-bool": false,
+      "x": "4.15",
+      "x-bool": false,
+      "2": "2.15",
+      "2-bool": true
+    },
+    {
+      "date": "2013-02-06",
+      "match": "Washington - Toronto",
+      "1": "2.05",
+      "1-bool": false,
+      "x": "4.15",
+      "x-bool": false,
+      "2": "3.29",
+      "2-bool": true
+    },
+    {
+      "date": "2013-02-06",
+      "match": "NY Islanders - Pittsburgh",
+      "1": "3.10",
+      "1-bool": false,
+      "x": "4.05",
+      "x-bool": false,
+      "2": "2.15",
+      "2-bool": true
+    },
+    {
+      "date": "2013-02-06",
+      "match": "New Jersey - NY Rangers",
+      "1": "2.55",
+      "1-bool": true,
+      "x": "3.85",
+      "x-bool": false,
+      "2": "2.64",
+      "2-bool": false
+    },
+    {
+      "date": "2013-02-06",
+      "match": "Ottawa - Buffalo",
+      "1": "2.15",
+      "1-bool": true,
+      "x": "4.00",
+      "x-bool": false,
+      "2": "3.20",
+      "2-bool": false
+    },
+    {
+      "date": "2013-02-06",
+      "match": "Philadelphia - Tampa Bay",
+      "1": "2.40",
+      "1-bool": true,
+      "x": "4.00",
+      "x-bool": false,
+      "2": "2.64",
+      "2-bool": false
+    },
+    {
+      "date": "2013-02-06",
+      "match": "Detroit - Calgary",
+      "1": "2.05",
+      "1-bool": false,
+      "x": "4.25",
+      "x-bool": false,
+      "2": "3.25",
+      "2-bool": true
+    },
+    {
+      "date": "2013-02-06",
+      "match": "St. Louis - Nashville",
+      "1": "1.90",
+      "1-bool": false,
+      "x": "4.55",
+      "x-bool": false,
+      "2": "3.79",
+      "2-bool": true
+    },
+    {
+      "date": "2013-02-06",
+      "match": "Winnipeg - Florida",
+      "1": "2.25",
+      "1-bool": false,
+      "x": "4.00",
+      "x-bool": true,
+      "2": "3.10",
+      "2-bool": false
+    },
+    {
+      "date": "2013-02-06",
+      "match": "San Jose - Chicago",
+      "1": "2.40",
+      "1-bool": false,
+      "x": "3.90",
+      "x-bool": false,
+      "2": "2.75",
+      "2-bool": true
+    },
+    {
+      "date": "2013-02-07",
+      "match": "Montreal - Boston",
+      "1": "2.64",
+      "1-bool": false,
+      "x": "3.85",
+      "x-bool": false,
+      "2": "2.50",
+      "2-bool": true
+    },
+    {
+      "date": "2013-02-07",
+      "match": "Colorado - Anaheim",
+      "1": "2.89",
+      "1-bool": false,
+      "x": "3.85",
+      "x-bool": false,
+      "2": "2.50",
+      "2-bool": true
+    },
+    {
+      "date": "2013-02-07",
+      "match": "Edmonton - Dallas",
+      "1": "2.54",
+      "1-bool": false,
+      "x": "3.90",
+      "x-bool": true,
+      "2": "2.75",
+      "2-bool": false
+    },
+    {
+      "date": "2013-02-08",
+      "match": "Pittsburgh - Washington",
+      "1": "1.85",
+      "1-bool": true,
+      "x": "4.30",
+      "x-bool": false,
+      "2": "3.95",
+      "2-bool": false
+    },
+    {
+      "date": "2013-02-08",
+      "match": "Philadelphia - Florida",
+      "1": "2.10",
+      "1-bool": false,
+      "x": "4.10",
+      "x-bool": true,
+      "2": "3.15",
+      "2-bool": false
+    },
+    {
+      "date": "2013-02-08",
+      "match": "NY Rangers - NY Islanders",
+      "1": "2.00",
+      "1-bool": true,
+      "x": "4.10",
+      "x-bool": false,
+      "2": "3.40",
+      "2-bool": false,
+      "1-score": 3,
+      "2-score": 4,
+      "score": 7
+    },
+    {
+      "date": "2013-02-08",
+      "match": "New Jersey - Tampa Bay",
+      "1": "2.30",
+      "1-bool": true,
+      "x": "3.95",
+      "x-bool": false,
+      "2": "2.75",
+      "2-bool": false
+    },
+    {
+      "date": "2013-02-08",
+      "match": "Buffalo - Montreal",
+      "1": "2.30",
+      "1-bool": false,
+      "x": "4.00",
+      "x-bool": true,
+      "2": "3.00",
+      "2-bool": false
+    },
+    {
+      "date": "2013-02-08",
+      "match": "Columbus - Calgary",
+      "1": "2.60",
+      "1-bool": false,
+      "x": "3.95",
+      "x-bool": true,
+      "2": "2.75",
+      "2-bool": false
+    },
+    {
+      "date": "2013-02-08",
+      "match": "Ottawa - Carolina",
+      "1": "2.36",
+      "1-bool": false,
+      "x": "3.95",
+      "x-bool": true,
+      "2": "2.80",
+      "2-bool": false
+    },
+    {
+      "date": "2013-02-08",
+      "match": "Winnipeg - Toronto",
+      "1": "2.25",
+      "1-bool": false,
+      "x": "4.00",
+      "x-bool": false,
+      "2": "2.90",
+      "2-bool": true
+    },
+    {
+      "date": "2013-02-08",
+      "match": "Nashville - Los Angeles",
+      "1": "2.75",
+      "1-bool": true,
+      "x": "3.95",
+      "x-bool": false,
+      "2": "2.65",
+      "2-bool": false
+    },
+    {
+      "date": "2013-02-08",
+      "match": "Minnesota - Vancouver",
+      "1": "2.65",
+      "1-bool": false,
+      "x": "3.85",
+      "x-bool": false,
+      "2": "2.45",
+      "2-bool": true
+    },
+    {
+      "date": "2013-02-08",
+      "match": "St. Louis - Detroit",
+      "1": "1.95",
+      "1-bool": false,
+      "x": "4.35",
+      "x-bool": false,
+      "2": "3.70",
+      "2-bool": true
+    },
+    {
+      "date": "2013-02-08",
+      "match": "Phoenix - Chicago",
+      "1": "2.60",
+      "1-bool": false,
+      "x": "3.95",
+      "x-bool": false,
+      "2": "2.60",
+      "2-bool": true
+    },
+    {
+      "date": "2013-02-09",
+      "match": "Dallas - Anaheim",
+      "1": "2.75",
+      "1-bool": true,
+      "x": "3.95",
+      "x-bool": false,
+      "2": "2.45",
+      "2-bool": false
+    },
+    {
+      "date": "2013-02-09",
+      "match": "New Jersey - Pittsburgh",
+      "1": "2.75",
+      "1-bool": true,
+      "x": "4.00",
+      "x-bool": false,
+      "2": "2.64",
+      "2-bool": false
+    },
+    {
+      "date": "2013-02-09",
+      "match": "Philadelphia - Carolina",
+      "1": "2.25",
+      "1-bool": false,
+      "x": "4.00",
+      "x-bool": true,
+      "2": "2.95",
+      "2-bool": false
+    },
+    {
+      "date": "2013-02-09",
+      "match": "Ottawa - Winnipeg",
+      "1": "2.00",
+      "1-bool": false,
+      "x": "4.05",
+      "x-bool": false,
+      "2": "3.30",
+      "2-bool": true
+    },
+    {
+      "date": "2013-02-09",
+      "match": "Detroit - Edmonton",
+      "1": "2.00",
+      "1-bool": true,
+      "x": "4.10",
+      "x-bool": false,
+      "2": "3.39",
+      "2-bool": false
+    },
+    {
+      "date": "2013-02-09",
+      "match": "San Jose - Phoenix",
+      "1": "2.00",
+      "1-bool": false,
+      "x": "4.10",
+      "x-bool": true,
+      "2": "3.60",
+      "2-bool": false
+    },
+    {
+      "date": "2013-02-10",
+      "match": "Montreal - Toronto",
+      "1": "2.05",
+      "1-bool": false,
+      "x": "4.15",
+      "x-bool": false,
+      "2": "3.50",
+      "2-bool": true
+    },
+    {
+      "date": "2013-02-10",
+      "match": "NY Islanders - Buffalo",
+      "1": "2.40",
+      "1-bool": false,
+      "x": "3.95",
+      "x-bool": false,
+      "2": "2.64",
+      "2-bool": true
+    },
+    {
+      "date": "2013-02-10",
+      "match": "Washington - Florida",
+      "1": "2.25",
+      "1-bool": true,
+      "x": "3.95",
+      "x-bool": false,
+      "2": "3.05",
+      "2-bool": false
+    },
+    {
+      "date": "2013-02-10",
+      "match": "Minnesota - Nashville",
+      "1": "2.35",
+      "1-bool": false,
+      "x": "3.90",
+      "x-bool": true,
+      "2": "2.79",
+      "2-bool": false
+    },
+    {
+      "date": "2013-02-10",
+      "match": "St. Louis - Anaheim",
+      "1": "1.95",
+      "1-bool": false,
+      "x": "4.20",
+      "x-bool": true,
+      "2": "3.55",
+      "2-bool": false
+    },
+    {
+      "date": "2013-02-10",
+      "match": "Vancouver - Calgary",
+      "1": "1.85",
+      "1-bool": true,
+      "x": "4.30",
+      "x-bool": false,
+      "2": "3.95",
+      "2-bool": false
+    },
+    {
+      "date": "2013-02-10",
+      "match": "Detroit - Los Angeles",
+      "1": "2.64",
+      "1-bool": true,
+      "x": "3.90",
+      "x-bool": false,
+      "2": "2.65",
+      "2-bool": false
+    },
+    {
+      "date": "2013-02-11",
+      "match": "Columbus - Edmonton",
+      "1": "2.60",
+      "1-bool": false,
+      "x": "3.95",
+      "x-bool": false,
+      "2": "2.60",
+      "2-bool": true
+    },
+    {
+      "date": "2013-02-11",
+      "match": "Buffalo - Boston",
+      "1": "3.00",
+      "1-bool": false,
+      "x": "3.95",
+      "x-bool": false,
+      "2": "2.25",
+      "2-bool": true
+    },
+    {
+      "date": "2013-02-11",
+      "match": "NY Rangers - Tampa Bay",
+      "1": "2.15",
+      "1-bool": true,
+      "x": "4.00",
+      "x-bool": false,
+      "2": "3.20",
+      "2-bool": false
+    },
+    {
+      "date": "2013-02-11",
+      "match": "Pittsburgh - New Jersey",
+      "1": "2.05",
+      "1-bool": false,
+      "x": "4.10",
+      "x-bool": false,
+      "2": "3.40",
+      "2-bool": true
+    },
+    {
+      "date": "2013-02-11",
+      "match": "Nashville - Chicago",
+      "1": "2.89",
+      "1-bool": false,
+      "x": "3.85",
+      "x-bool": false,
+      "2": "2.35",
+      "2-bool": true
+    },
+    {
+      "date": "2013-02-12",
+      "match": "Columbus - San Jose",
+      "1": "3.60",
+      "1-bool": true,
+      "x": "4.33",
+      "x-bool": false,
+      "2": "1.95",
+      "2-bool": false
+    },
+    {
+      "date": "2013-02-12",
+      "match": "Toronto - Philadelphia",
+      "1": "2.50",
+      "1-bool": true,
+      "x": "3.95",
+      "x-bool": false,
+      "2": "2.55",
+      "2-bool": false
+    },
+    {
+      "date": "2013-02-12",
+      "match": "NY Islanders - Carolina",
+      "1": "2.50",
+      "1-bool": false,
+      "x": "3.95",
+      "x-bool": false,
+      "2": "2.60",
+      "2-bool": true
+    },
+    {
+      "date": "2013-02-12",
+      "match": "St. Louis - Los Angeles",
+      "1": "2.05",
+      "1-bool": false,
+      "x": "4.10",
+      "x-bool": false,
+      "2": "3.50",
+      "2-bool": true
+    },
+    {
+      "date": "2013-02-12",
+      "match": "Colorado - Phoenix",
+      "1": "2.70",
+      "1-bool": false,
+      "x": "3.95",
+      "x-bool": true,
+      "2": "2.50",
+      "2-bool": false
+    },
+    {
+      "date": "2013-02-12",
+      "match": "Calgary - Minnesota",
+      "1": "2.54",
+      "1-bool": false,
+      "x": "3.95",
+      "x-bool": true,
+      "2": "2.55",
+      "2-bool": false
+    },
+    {
+      "date": "2013-02-13",
+      "match": "New Jersey - Carolina",
+      "1": "2.05",
+      "1-bool": false,
+      "x": "4.00",
+      "x-bool": false,
+      "2": "3.30",
+      "2-bool": true
+    },
+    {
+      "date": "2013-02-13",
+      "match": "Florida - Washington",
+      "1": "2.40",
+      "1-bool": false,
+      "x": "4.00",
+      "x-bool": true,
+      "2": "2.70",
+      "2-bool": false
+    },
+    {
+      "date": "2013-02-13",
+      "match": "Tampa Bay - Montreal",
+      "1": "2.30",
+      "1-bool": false,
+      "x": "4.00",
+      "x-bool": true,
+      "2": "2.95",
+      "2-bool": false
+    },
+    {
+      "date": "2013-02-13",
+      "match": "Ottawa - Buffalo",
+      "1": "2.20",
+      "1-bool": true,
+      "x": "4.00",
+      "x-bool": false,
+      "2": "3.00",
+      "2-bool": false
+    },
+    {
+      "date": "2013-02-13",
+      "match": "Boston - NY Rangers",
+      "1": "2.29",
+      "1-bool": false,
+      "x": "4.00",
+      "x-bool": true,
+      "2": "3.00",
+      "2-bool": false
+    },
+    {
+      "date": "2013-02-13",
+      "match": "Winnipeg - Philadelphia",
+      "1": "2.25",
+      "1-bool": false,
+      "x": "4.00",
+      "x-bool": false,
+      "2": "3.00",
+      "2-bool": true
+    },
+    {
+      "date": "2013-02-13",
+      "match": "Nashville - San Jose",
+      "1": "2.55",
+      "1-bool": false,
+      "x": "3.90",
+      "x-bool": true,
+      "2": "2.55",
+      "2-bool": false
+    },
+    {
+      "date": "2013-02-13",
+      "match": "Chicago - Anaheim",
+      "1": "2.00",
+      "1-bool": false,
+      "x": "4.10",
+      "x-bool": true,
+      "2": "3.25",
+      "2-bool": false
+    },
+    {
+      "date": "2013-02-13",
+      "match": "Edmonton - Dallas",
+      "1": "2.45",
+      "1-bool": false,
+      "x": "3.90",
+      "x-bool": false,
+      "2": "2.70",
+      "2-bool": true
+    },
+    {
+      "date": "2013-02-13",
+      "match": "Vancouver - Minnesota",
+      "1": "1.85",
+      "1-bool": true,
+      "x": "4.50",
+      "x-bool": false,
+      "2": "4.25",
+      "2-bool": false
+    },
+    {
+      "date": "2013-02-14",
+      "match": "Pittsburgh - Ottawa",
+      "1": "1.91",
+      "1-bool": true,
+      "x": "4.40",
+      "x-bool": false,
+      "2": "4.30",
+      "2-bool": false
+    },
+    {
+      "date": "2013-02-14",
+      "match": "Detroit - St. Louis",
+      "1": "2.38",
+      "1-bool": false,
+      "x": "3.95",
+      "x-bool": true,
+      "2": "2.80",
+      "2-bool": false
+    },
+    {
+      "date": "2013-02-14",
+      "match": "Calgary - Dallas",
+      "1": "2.30",
+      "1-bool": true,
+      "x": "4.05",
+      "x-bool": false,
+      "2": "3.00",
+      "2-bool": false
+    },
+    {
+      "date": "2013-02-15",
+      "match": "NY Rangers - NY Islanders",
+      "1": "2.00",
+      "1-bool": false,
+      "x": "4.30",
+      "x-bool": true,
+      "2": "3.75",
+      "2-bool": false,
+      "1-score": 3,
+      "2-score": 4,
+      "score": 7
+    },
+    {
+      "date": "2013-02-15",
+      "match": "Carolina - Toronto",
+      "1": "2.20",
+      "1-bool": true,
+      "x": "4.10",
+      "x-bool": false,
+      "2": "3.00",
+      "2-bool": false
+    },
+    {
+      "date": "2013-02-15",
+      "match": "Florida - Montreal",
+      "1": "2.79",
+      "1-bool": false,
+      "x": "3.85",
+      "x-bool": true,
+      "2": "2.45",
+      "2-bool": false
+    },
+    {
+      "date": "2013-02-15",
+      "match": "Tampa Bay - Washington",
+      "1": "2.10",
+      "1-bool": false,
+      "x": "4.10",
+      "x-bool": false,
+      "2": "3.15",
+      "2-bool": true
+    },
+    {
+      "date": "2013-02-15",
+      "match": "Nashville - Phoenix",
+      "1": "2.39",
+      "1-bool": true,
+      "x": "3.90",
+      "x-bool": false,
+      "2": "2.85",
+      "2-bool": false
+    },
+    {
+      "date": "2013-02-15",
+      "match": "Minnesota - Colorado",
+      "1": "2.05",
+      "1-bool": false,
+      "x": "4.15",
+      "x-bool": true,
+      "2": "3.45",
+      "2-bool": false
+    },
+    {
+      "date": "2013-02-20",
+      "match": "NY Rangers - Montreal",
+      "1": "2.05",
+      "1-bool": false,
+      "x": "4.00",
+      "x-bool": false,
+      "2": "3.35",
+      "2-bool": true
+    },
+    {
+      "date": "2013-02-20",
+      "match": "Tampa Bay - Toronto",
+      "1": "2.05",
+      "1-bool": true,
+      "x": "4.00",
+      "x-bool": false,
+      "2": "3.20",
+      "2-bool": false
+    },
+    {
+      "date": "2013-02-20",
+      "match": "Ottawa - NY Islanders",
+      "1": "2.38",
+      "1-bool": true,
+      "x": "4.00",
+      "x-bool": false,
+      "2": "2.85",
+      "2-bool": false
+    },
+    {
+      "date": "2013-02-20",
+      "match": "Nashville - Detroit",
+      "1": "2.45",
+      "1-bool": false,
+      "x": "3.90",
+      "x-bool": true,
+      "2": "2.90",
+      "2-bool": false
+    },
+    {
+      "date": "2013-02-20",
+      "match": "St. Louis - San Jose",
+      "1": "2.35",
+      "1-bool": false,
+      "x": "4.00",
+      "x-bool": false,
+      "2": "3.10",
+      "2-bool": true
+    },
+    {
+      "date": "2013-02-20",
+      "match": "Chicago - Vancouver",
+      "1": "2.39",
+      "1-bool": false,
+      "x": "4.00",
+      "x-bool": true,
+      "2": "2.85",
+      "2-bool": false
+    },
+    {
+      "date": "2013-03-06",
+      "match": "Columbus - Edmonton",
+      "1": "2.70",
+      "1-bool": false,
+      "x": "3.95",
+      "x-bool": true,
+      "2": "2.40",
+      "2-bool": false
+    },
+    {
+      "date": "2013-03-06",
+      "match": "Carolina - Buffalo",
+      "1": "2.30",
+      "1-bool": true,
+      "x": "3.95",
+      "x-bool": false,
+      "2": "2.90",
+      "2-bool": false
+    },
+    {
+      "date": "2013-03-06",
+      "match": "Washington - Boston",
+      "1": "3.20",
+      "1-bool": false,
+      "x": "4.00",
+      "x-bool": true,
+      "2": "2.20",
+      "2-bool": false
+    },
+    {
+      "date": "2013-03-06",
+      "match": "NY Islanders - Montreal",
+      "1": "2.75",
+      "1-bool": true,
+      "x": "4.00",
+      "x-bool": false,
+      "2": "2.35",
+      "2-bool": false
+    },
+    {
+      "date": "2013-03-06",
+      "match": "New Jersey - Tampa Bay",
+      "1": "2.30",
+      "1-bool": false,
+      "x": "4.00",
+      "x-bool": false,
+      "2": "2.85",
+      "2-bool": true
+    },
+    {
+      "date": "2013-03-06",
+      "match": "Detroit - Colorado",
+      "1": "2.00",
+      "1-bool": true,
+      "x": "4.15",
+      "x-bool": false,
+      "2": "3.45",
+      "2-bool": false
+    },
+    {
+      "date": "2013-03-06",
+      "match": "Florida - Winnipeg",
+      "1": "2.79",
+      "1-bool": true,
+      "x": "3.95",
+      "x-bool": false,
+      "2": "2.45",
+      "2-bool": false
+    },
+    {
+      "date": "2013-03-06",
+      "match": "NY Rangers - Philadelphia",
+      "1": "2.25",
+      "1-bool": true,
+      "x": "4.00",
+      "x-bool": false,
+      "2": "3.05",
+      "2-bool": false
+    },
+    {
+      "date": "2013-03-06",
+      "match": "Chicago - Minnesota",
+      "1": "1.95",
+      "1-bool": true,
+      "x": "4.20",
+      "x-bool": false,
+      "2": "3.90",
+      "2-bool": false
+    },
+    {
+      "date": "2013-03-06",
+      "match": "Vancouver - San Jose",
+      "1": "2.15",
+      "1-bool": false,
+      "x": "4.00",
+      "x-bool": true,
+      "2": "3.10",
+      "2-bool": false
+    },
+    {
+      "date": "2013-03-06",
+      "match": "Los Angeles - St. Louis",
+      "1": "2.25",
+      "1-bool": true,
+      "x": "3.95",
+      "x-bool": false,
+      "2": "3.00",
+      "2-bool": false
+    },
+    {
+      "date": "2013-03-10",
+      "match": "Detroit - Columbus",
+      "1": "1.85",
+      "1-bool": false,
+      "x": "4.25",
+      "x-bool": true,
+      "2": "3.75",
+      "2-bool": false
+    },
+    {
+      "date": "2013-03-11",
+      "match": "Pittsburgh - NY Islanders",
+      "1": "1.86",
+      "1-bool": true,
+      "x": "4.35",
+      "x-bool": false,
+      "2": "3.75",
+      "2-bool": false
+    },
+    {
+      "date": "2013-03-11",
+      "match": "Chicago - Edmonton",
+      "1": "1.75",
+      "1-bool": false,
+      "x": "4.40",
+      "x-bool": false,
+      "2": "4.30",
+      "2-bool": true
+    },
+    {
+      "date": "2013-03-11",
+      "match": "New Jersey - Winnipeg",
+      "1": "2.25",
+      "1-bool": false,
+      "x": "4.00",
+      "x-bool": true,
+      "2": "2.90",
+      "2-bool": false
+    },
+    {
+      "date": "2013-03-11",
+      "match": "Philadelphia - Buffalo",
+      "1": "2.20",
+      "1-bool": true,
+      "x": "4.15",
+      "x-bool": false,
+      "2": "3.00",
+      "2-bool": false
+    },
+    {
+      "date": "2013-03-11",
+      "match": "Minnesota - Vancouver",
+      "1": "3.10",
+      "1-bool": true,
+      "x": "3.85",
+      "x-bool": false,
+      "2": "2.30",
+      "2-bool": false
+    },
+    {
+      "date": "2013-03-11",
+      "match": "Colorado - San Jose",
+      "1": "2.40",
+      "1-bool": false,
+      "x": "3.85",
+      "x-bool": true,
+      "2": "3.10",
+      "2-bool": false
+    },
+    {
+      "date": "2013-03-11",
+      "match": "Anaheim - St. Louis",
+      "1": "2.15",
+      "1-bool": true,
+      "x": "4.10",
+      "x-bool": false,
+      "2": "3.10",
+      "2-bool": false
+    },
+    {
+      "date": "2013-03-26",
+      "match": "Boston - Toronto",
+      "1": "1.85",
+      "1-bool": false,
+      "x": "4.40",
+      "x-bool": true,
+      "2": "3.85",
+      "2-bool": false
+    },
+    {
+      "date": "2013-03-26",
+      "match": "Ottawa - New Jersey",
+      "1": "2.30",
+      "1-bool": false,
+      "x": "3.90",
+      "x-bool": true,
+      "2": "3.10",
+      "2-bool": false
+    },
+    {
+      "date": "2013-03-26",
+      "match": "Chicago - Los Angeles",
+      "1": "2.20",
+      "1-bool": false,
+      "x": "4.00",
+      "x-bool": false,
+      "2": "3.10",
+      "2-bool": true
+    },
+    {
+      "date": "2013-03-26",
+      "match": "Nashville - Edmonton",
+      "1": "2.15",
+      "1-bool": true,
+      "x": "4.15",
+      "x-bool": false,
+      "2": "3.20",
+      "2-bool": false
+    },
+    {
+      "date": "2013-03-26",
+      "match": "Dallas - Minnesota",
+      "1": "2.55",
+      "1-bool": false,
+      "x": "3.85",
+      "x-bool": false,
+      "2": "2.64",
+      "2-bool": true
+    },
+    {
+      "date": "2013-03-26",
+      "match": "Phoenix - Detroit",
+      "1": "2.30",
+      "1-bool": false,
+      "x": "4.00",
+      "x-bool": false,
+      "2": "3.10",
+      "2-bool": true
+    },
+    {
+      "date": "2013-03-26",
+      "match": "Anaheim - San Jose",
+      "1": "2.25",
+      "1-bool": false,
+      "x": "3.90",
+      "x-bool": false,
+      "2": "3.10",
+      "2-bool": true
+    },
+    {
+      "date": "2013-04-06",
+      "match": "Pittsburgh - NY Rangers",
+      "1": "2.25",
+      "1-bool": false,
+      "x": "3.95",
+      "x-bool": true,
+      "2": "2.95",
+      "2-bool": false
+    },
+    {
+      "date": "2013-04-06",
+      "match": "Buffalo - Ottawa",
+      "1": "3.10",
+      "1-bool": true,
+      "x": "3.85",
+      "x-bool": false,
+      "2": "2.45",
+      "2-bool": false
+    },
+    {
+      "date": "2013-04-06",
+      "match": "St. Louis - Columbus",
+      "1": "2.00",
+      "1-bool": true,
+      "x": "4.10",
+      "x-bool": false,
+      "2": "3.50",
+      "2-bool": false
+    },
+    {
+      "date": "2013-04-06",
+      "match": "Colorado - Detroit",
+      "1": "2.55",
+      "1-bool": false,
+      "x": "3.95",
+      "x-bool": true,
+      "2": "2.50",
+      "2-bool": false
+    },
+    {
+      "date": "2013-04-06",
+      "match": "Anaheim - Dallas",
+      "1": "1.82",
+      "1-bool": false,
+      "x": "4.40",
+      "x-bool": false,
+      "2": "3.90",
+      "2-bool": true
+    },
+    {
+      "date": "2013-04-06",
+      "match": "San Jose - Calgary",
+      "1": "1.70",
+      "1-bool": true,
+      "x": "4.50",
+      "x-bool": false,
+      "2": "4.75",
+      "2-bool": false
+    },
+    {
+      "date": "2013-04-07",
+      "match": "Phoenix - Colorado",
+      "1": "1.95",
+      "1-bool": true,
+      "x": "4.30",
+      "x-bool": false,
+      "2": "3.75",
+      "2-bool": false
+    },
+    {
+      "date": "2013-04-10",
+      "match": "Columbus - San Jose",
+      "1": "2.79",
+      "1-bool": true,
+      "x": "3.85",
+      "x-bool": false,
+      "2": "2.40",
+      "2-bool": false
+    },
+    {
+      "date": "2013-04-10",
+      "match": "Carolina - Pittsburgh",
+      "1": "3.39",
+      "1-bool": false,
+      "x": "4.15",
+      "x-bool": false,
+      "2": "2.05",
+      "2-bool": true
+    },
+    {
+      "date": "2013-04-10",
+      "match": "NY Islanders - Philadelphia",
+      "1": "2.30",
+      "1-bool": true,
+      "x": "3.95",
+      "x-bool": false,
+      "2": "2.79",
+      "2-bool": false
+    },
+    {
+      "date": "2013-04-10",
+      "match": "Montreal - Washington",
+      "1": "2.10",
+      "1-bool": false,
+      "x": "4.15",
+      "x-bool": false,
+      "2": "3.20",
+      "2-bool": true
+    },
+    {
+      "date": "2013-04-10",
+      "match": "Tampa Bay - Ottawa",
+      "1": "2.35",
+      "1-bool": true,
+      "x": "3.90",
+      "x-bool": false,
+      "2": "2.79",
+      "2-bool": false
+    },
+    {
+      "date": "2013-04-10",
+      "match": "Minnesota - Chicago",
+      "1": "2.75",
+      "1-bool": false,
+      "x": "3.85",
+      "x-bool": false,
+      "2": "2.45",
+      "2-bool": true
+    },
+    {
+      "date": "2013-04-10",
+      "match": "Nashville - St. Louis",
+      "1": "2.89",
+      "1-bool": false,
+      "x": "3.85",
+      "x-bool": false,
+      "2": "2.30",
+      "2-bool": true
+    },
+    {
+      "date": "2013-04-10",
+      "match": "Winnipeg - Buffalo",
+      "1": "2.10",
+      "1-bool": true,
+      "x": "4.15",
+      "x-bool": false,
+      "2": "3.30",
+      "2-bool": false
+    },
+    {
+      "date": "2013-04-10",
+      "match": "Dallas - Los Angeles",
+      "1": "3.25",
+      "1-bool": true,
+      "x": "4.15",
+      "x-bool": false,
+      "2": "2.19",
+      "2-bool": false
+    },
+    {
+      "date": "2013-04-14",
+      "match": "St. Louis - Chicago",
+      "1": "2.45",
+      "1-bool": false,
+      "x": "3.85",
+      "x-bool": false,
+      "2": "2.64",
+      "2-bool": true
+    },
+    {
+      "date": "2013-04-14",
+      "match": "Buffalo - Tampa Bay",
+      "1": "2.35",
+      "1-bool": true,
+      "x": "4.00",
+      "x-bool": false,
+      "2": "2.95",
+      "2-bool": false
+    },
+    {
+      "date": "2013-04-15",
+      "match": "Nashville - Detroit",
+      "1": "2.95",
+      "1-bool": false,
+      "x": "3.90",
+      "x-bool": false,
+      "2": "2.50",
+      "2-bool": true
+    }
+  ]
+]

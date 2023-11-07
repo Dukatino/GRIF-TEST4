@@ -1,0 +1,3640 @@
+[
+  [
+    {
+      "match": "Trencin - Zilina",
+      "1": "2.38",
+      "1-bool": false,
+      "x": "3.92",
+      "x-bool": false,
+      "2": "2.77",
+      "2-bool": true
+    },
+    {
+      "match": "Dunajska Streda - Nitra",
+      "1": "1.22",
+      "1-bool": true,
+      "x": "6.66",
+      "x-bool": false,
+      "2": "13.67",
+      "2-bool": false
+    },
+    {
+      "match": "Senica - Zemplin Michalovce",
+      "1": "2.10",
+      "1-bool": true,
+      "x": "3.59",
+      "x-bool": false,
+      "2": "3.43",
+      "2-bool": false
+    },
+    {
+      "match": "Spartak Trnava - Pohronie",
+      "1": "1.56",
+      "1-bool": false,
+      "x": "4.22",
+      "x-bool": true,
+      "2": "5.80",
+      "2-bool": false
+    },
+    {
+      "match": "Ruzomberok - Sered",
+      "1": "1.66",
+      "1-bool": false,
+      "x": "4.25",
+      "x-bool": true,
+      "2": "5.50",
+      "2-bool": false
+    },
+    {
+      "match": "Zlate Moravce - Slovan Bratislava",
+      "1": "7.72",
+      "1-bool": true,
+      "x": "5.31",
+      "x-bool": false,
+      "2": "1.39",
+      "2-bool": false
+    },
+    {
+      "match": "Dunajska Streda - Spartak Trnava",
+      "1": "1.47",
+      "1-bool": true,
+      "x": "5.00",
+      "x-bool": false,
+      "2": "6.95",
+      "2-bool": false
+    },
+    {
+      "match": "Nitra - Ruzomberok",
+      "1": "3.65",
+      "1-bool": false,
+      "x": "3.49",
+      "x-bool": true,
+      "2": "2.04",
+      "2-bool": false
+    },
+    {
+      "match": "Pohronie - Zilina",
+      "1": "3.75",
+      "1-bool": true,
+      "x": "3.80",
+      "x-bool": false,
+      "2": "2.06",
+      "2-bool": false
+    },
+    {
+      "match": "Zemplin Michalovce - Zlate Moravce",
+      "1": "2.46",
+      "1-bool": true,
+      "x": "3.41",
+      "x-bool": false,
+      "2": "2.92",
+      "2-bool": false
+    },
+    {
+      "match": "Senica - Nitra",
+      "1": "1.83",
+      "1-bool": false,
+      "x": "3.75",
+      "x-bool": true,
+      "2": "4.30",
+      "2-bool": false
+    },
+    {
+      "match": "Spartak Trnava - Sered",
+      "1": "1.77",
+      "1-bool": false,
+      "x": "3.82",
+      "x-bool": false,
+      "2": "4.53",
+      "2-bool": true
+    },
+    {
+      "match": "Zlate Moravce - Dunajska Streda",
+      "1": "5.26",
+      "1-bool": false,
+      "x": "4.35",
+      "x-bool": false,
+      "2": "1.57",
+      "2-bool": true
+    },
+    {
+      "match": "Zilina - Zemplin Michalovce",
+      "1": "1.32",
+      "1-bool": true,
+      "x": "5.75",
+      "x-bool": false,
+      "2": "8.30",
+      "2-bool": false
+    },
+    {
+      "match": "Ruzomberok - Pohronie",
+      "1": "2.08",
+      "1-bool": false,
+      "x": "3.48",
+      "x-bool": true,
+      "2": "3.60",
+      "2-bool": false
+    },
+    {
+      "match": "Trencin - Slovan Bratislava",
+      "1": "3.80",
+      "1-bool": false,
+      "x": "4.25",
+      "x-bool": false,
+      "2": "1.80",
+      "2-bool": true
+    },
+    {
+      "match": "Zlate Moravce - Senica",
+      "1": "1.74",
+      "1-bool": false,
+      "x": "3.85",
+      "x-bool": true,
+      "2": "4.55",
+      "2-bool": false
+    },
+    {
+      "match": "Slovan Bratislava - Spartak Trnava",
+      "1": "1.31",
+      "1-bool": true,
+      "x": "5.75",
+      "x-bool": false,
+      "2": "9.55",
+      "2-bool": false
+    },
+    {
+      "match": "Sered - Zilina",
+      "1": "2.80",
+      "1-bool": true,
+      "x": "3.68",
+      "x-bool": false,
+      "2": "2.65",
+      "2-bool": false
+    },
+    {
+      "match": "Zemplin Michalovce - Trencin",
+      "1": "3.60",
+      "1-bool": false,
+      "x": "3.98",
+      "x-bool": true,
+      "2": "1.92",
+      "2-bool": false
+    },
+    {
+      "match": "Nitra - Pohronie",
+      "1": "2.90",
+      "1-bool": true,
+      "x": "3.46",
+      "x-bool": false,
+      "2": "2.51",
+      "2-bool": false
+    },
+    {
+      "match": "Dunajska Streda - Ruzomberok",
+      "1": "1.37",
+      "1-bool": true,
+      "x": "5.20",
+      "x-bool": false,
+      "2": "8.60",
+      "2-bool": false
+    },
+    {
+      "match": "Pohronie - Sered",
+      "1": "2.22",
+      "1-bool": false,
+      "x": "3.35",
+      "x-bool": true,
+      "2": "3.30",
+      "2-bool": false
+    },
+    {
+      "match": "Spartak Trnava - Zlate Moravce",
+      "1": "1.62",
+      "1-bool": true,
+      "x": "3.90",
+      "x-bool": false,
+      "2": "5.65",
+      "2-bool": false
+    },
+    {
+      "match": "Trencin - Nitra",
+      "1": "1.44",
+      "1-bool": true,
+      "x": "4.95",
+      "x-bool": false,
+      "2": "6.45",
+      "2-bool": false
+    },
+    {
+      "match": "Ruzomberok - Zemplin Michalovce",
+      "1": "1.56",
+      "1-bool": true,
+      "x": "4.35",
+      "x-bool": false,
+      "2": "5.80",
+      "2-bool": false
+    },
+    {
+      "match": "Zilina - Slovan Bratislava",
+      "1": "3.90",
+      "1-bool": false,
+      "x": "4.10",
+      "x-bool": true,
+      "2": "1.90",
+      "2-bool": false
+    },
+    {
+      "match": "Senica - Dunajska Streda",
+      "1": "4.60",
+      "1-bool": false,
+      "x": "4.10",
+      "x-bool": false,
+      "2": "1.78",
+      "2-bool": true
+    },
+    {
+      "match": "Sered - Trencin",
+      "1": "2.84",
+      "1-bool": false,
+      "x": "3.80",
+      "x-bool": true,
+      "2": "2.33",
+      "2-bool": false
+    },
+    {
+      "match": "Senica - Spartak Trnava",
+      "1": "2.92",
+      "1-bool": false,
+      "x": "3.38",
+      "x-bool": false,
+      "2": "2.48",
+      "2-bool": true
+    },
+    {
+      "match": "Zemplin Michalovce - Pohronie",
+      "1": "2.41",
+      "1-bool": true,
+      "x": "3.40",
+      "x-bool": false,
+      "2": "3.10",
+      "2-bool": false
+    },
+    {
+      "match": "Slovan Bratislava - Ruzomberok",
+      "1": "1.32",
+      "1-bool": true,
+      "x": "5.79",
+      "x-bool": false,
+      "2": "11.15",
+      "2-bool": false
+    },
+    {
+      "match": "Nitra - Sered",
+      "1": "2.43",
+      "1-bool": true,
+      "x": "3.48",
+      "x-bool": false,
+      "2": "2.95",
+      "2-bool": false
+    },
+    {
+      "match": "Zlate Moravce - Zilina",
+      "1": "3.05",
+      "1-bool": true,
+      "x": "3.95",
+      "x-bool": false,
+      "2": "2.32",
+      "2-bool": false
+    },
+    {
+      "match": "Dunajska Streda - Trencin",
+      "1": "1.31",
+      "1-bool": true,
+      "x": "6.13",
+      "x-bool": false,
+      "2": "9.41",
+      "2-bool": false
+    },
+    {
+      "match": "Slovan Bratislava - Senica",
+      "1": "1.11",
+      "1-bool": true,
+      "x": "9.25",
+      "x-bool": false,
+      "2": "23.00",
+      "2-bool": false
+    },
+    {
+      "match": "Zilina - Dunajska Streda",
+      "1": "4.11",
+      "1-bool": true,
+      "x": "4.25",
+      "x-bool": false,
+      "2": "1.76",
+      "2-bool": false
+    },
+    {
+      "match": "Spartak Trnava - Nitra",
+      "1": "1.60",
+      "1-bool": false,
+      "x": "4.12",
+      "x-bool": false,
+      "2": "6.78",
+      "2-bool": true
+    },
+    {
+      "match": "Sered - Zemplin Michalovce",
+      "1": "1.79",
+      "1-bool": false,
+      "x": "4.04",
+      "x-bool": true,
+      "2": "4.82",
+      "2-bool": false
+    },
+    {
+      "match": "Ruzomberok - Zlate Moravce",
+      "1": "1.81",
+      "1-bool": true,
+      "x": "3.73",
+      "x-bool": false,
+      "2": "5.29",
+      "2-bool": false
+    },
+    {
+      "match": "Pohronie - Slovan Bratislava",
+      "1": "5.24",
+      "1-bool": false,
+      "x": "4.05",
+      "x-bool": false,
+      "2": "1.83",
+      "2-bool": true
+    },
+    {
+      "match": "Trencin - Senica",
+      "1": "1.49",
+      "1-bool": false,
+      "x": "4.92",
+      "x-bool": false,
+      "2": "5.76",
+      "2-bool": true
+    },
+    {
+      "match": "Senica - Ruzomberok",
+      "1": "3.13",
+      "1-bool": false,
+      "x": "2.97",
+      "x-bool": false,
+      "2": "2.69",
+      "2-bool": true
+    },
+    {
+      "match": "Trencin - Pohronie",
+      "1": "1.83",
+      "1-bool": false,
+      "x": "4.15",
+      "x-bool": true,
+      "2": "4.42",
+      "2-bool": false
+    },
+    {
+      "match": "Zemplin Michalovce - Dunajska Streda",
+      "1": "6.60",
+      "1-bool": false,
+      "x": "5.25",
+      "x-bool": false,
+      "2": "1.45",
+      "2-bool": true
+    },
+    {
+      "match": "Slovan Bratislava - Sered",
+      "1": "1.21",
+      "1-bool": true,
+      "x": "7.49",
+      "x-bool": false,
+      "2": "13.22",
+      "2-bool": false
+    },
+    {
+      "match": "Zlate Moravce - Nitra",
+      "1": "1.94",
+      "1-bool": true,
+      "x": "3.87",
+      "x-bool": false,
+      "2": "3.65",
+      "2-bool": false
+    },
+    {
+      "match": "Zilina - Spartak Trnava",
+      "1": "2.02",
+      "1-bool": true,
+      "x": "3.70",
+      "x-bool": false,
+      "2": "3.71",
+      "2-bool": false
+    },
+    {
+      "match": "Pohronie - Senica",
+      "1": "2.07",
+      "1-bool": false,
+      "x": "3.55",
+      "x-bool": false,
+      "2": "3.48",
+      "2-bool": true
+    },
+    {
+      "match": "Sered - Zlate Moravce",
+      "1": "2.25",
+      "1-bool": false,
+      "x": "3.46",
+      "x-bool": false,
+      "2": "3.18",
+      "2-bool": true
+    },
+    {
+      "match": "Spartak Trnava - Trencin",
+      "1": "2.28",
+      "1-bool": true,
+      "x": "3.38",
+      "x-bool": false,
+      "2": "3.35",
+      "2-bool": false
+    },
+    {
+      "match": "Nitra - Zemplin Michalovce",
+      "1": "2.15",
+      "1-bool": false,
+      "x": "3.90",
+      "x-bool": true,
+      "2": "3.34",
+      "2-bool": false
+    },
+    {
+      "match": "Ruzomberok - Zilina",
+      "1": "2.13",
+      "1-bool": true,
+      "x": "3.80",
+      "x-bool": false,
+      "2": "3.47",
+      "2-bool": false
+    },
+    {
+      "match": "Dunajska Streda - Slovan Bratislava",
+      "1": "1.95",
+      "1-bool": false,
+      "x": "6.00",
+      "x-bool": true,
+      "2": "10.25",
+      "2-bool": false
+    },
+    {
+      "match": "Pohronie - Zlate Moravce",
+      "1": "2.30",
+      "1-bool": false,
+      "x": "3.45",
+      "x-bool": true,
+      "2": "3.24",
+      "2-bool": false
+    },
+    {
+      "match": "Zilina - Senica",
+      "1": "1.73",
+      "1-bool": true,
+      "x": "4.50",
+      "x-bool": false,
+      "2": "4.75",
+      "2-bool": false
+    },
+    {
+      "match": "Spartak Trnava - Zemplin Michalovce",
+      "1": "1.53",
+      "1-bool": false,
+      "x": "4.40",
+      "x-bool": false,
+      "2": "6.10",
+      "2-bool": true
+    },
+    {
+      "match": "Slovan Bratislava - Nitra",
+      "1": "1.17",
+      "1-bool": false,
+      "x": "8.40",
+      "x-bool": false,
+      "2": "16.00",
+      "2-bool": true
+    },
+    {
+      "match": "Trencin - Ruzomberok",
+      "1": "2.42",
+      "1-bool": true,
+      "x": "3.64",
+      "x-bool": false,
+      "2": "2.86",
+      "2-bool": false
+    },
+    {
+      "match": "Ruzomberok - Spartak Trnava",
+      "1": "2.11",
+      "1-bool": false,
+      "x": "3.22",
+      "x-bool": false,
+      "2": "4.10",
+      "2-bool": true
+    },
+    {
+      "match": "Zlate Moravce - Trencin",
+      "1": "2.66",
+      "1-bool": true,
+      "x": "3.50",
+      "x-bool": false,
+      "2": "2.68",
+      "2-bool": false
+    },
+    {
+      "match": "Dunajska Streda - Pohronie",
+      "1": "1.24",
+      "1-bool": false,
+      "x": "6.50",
+      "x-bool": true,
+      "2": "11.02",
+      "2-bool": false
+    },
+    {
+      "match": "Zemplin Michalovce - Slovan Bratislava",
+      "1": "24.00",
+      "1-bool": false,
+      "x": "8.29",
+      "x-bool": false,
+      "2": "1.25",
+      "2-bool": true
+    },
+    {
+      "match": "Nitra - Zilina",
+      "1": "2.88",
+      "1-bool": false,
+      "x": "3.85",
+      "x-bool": false,
+      "2": "2.34",
+      "2-bool": true
+    },
+    {
+      "match": "Senica - Sered",
+      "1": "1.85",
+      "1-bool": false,
+      "x": "3.90",
+      "x-bool": true,
+      "2": "4.07",
+      "2-bool": false
+    },
+    {
+      "match": "Zemplin Michalovce - Senica",
+      "1": "2.07",
+      "1-bool": false,
+      "x": "3.65",
+      "x-bool": false,
+      "2": "3.48",
+      "2-bool": true
+    },
+    {
+      "match": "Sered - Ruzomberok",
+      "1": "3.13",
+      "1-bool": false,
+      "x": "3.44",
+      "x-bool": true,
+      "2": "2.60",
+      "2-bool": false
+    },
+    {
+      "match": "Pohronie - Spartak Trnava",
+      "1": "2.79",
+      "1-bool": false,
+      "x": "3.35",
+      "x-bool": true,
+      "2": "2.72",
+      "2-bool": false
+    },
+    {
+      "match": "Zilina - Trencin",
+      "1": "1.78",
+      "1-bool": true,
+      "x": "4.50",
+      "x-bool": false,
+      "2": "3.90",
+      "2-bool": false
+    },
+    {
+      "match": "Nitra - Dunajska Streda",
+      "1": "6.25",
+      "1-bool": false,
+      "x": "5.00",
+      "x-bool": false,
+      "2": "1.45",
+      "2-bool": true
+    },
+    {
+      "match": "Slovan Bratislava - Zlate Moravce",
+      "1": "1.25",
+      "1-bool": true,
+      "x": "6.65",
+      "x-bool": false,
+      "2": "11.25",
+      "2-bool": false
+    },
+    {
+      "match": "Zlate Moravce - Zemplin Michalovce",
+      "1": "1.65",
+      "1-bool": false,
+      "x": "4.26",
+      "x-bool": true,
+      "2": "5.05",
+      "2-bool": false
+    },
+    {
+      "match": "Ruzomberok - Nitra",
+      "1": "1.61",
+      "1-bool": true,
+      "x": "4.05",
+      "x-bool": false,
+      "2": "5.83",
+      "2-bool": false
+    },
+    {
+      "match": "Zilina - Pohronie",
+      "1": "1.76",
+      "1-bool": true,
+      "x": "4.33",
+      "x-bool": false,
+      "2": "4.25",
+      "2-bool": false
+    },
+    {
+      "match": "Spartak Trnava - Dunajska Streda",
+      "1": "3.90",
+      "1-bool": false,
+      "x": "3.85",
+      "x-bool": false,
+      "2": "1.93",
+      "2-bool": true
+    },
+    {
+      "match": "Trencin - Sered",
+      "1": "1.99",
+      "1-bool": true,
+      "x": "3.81",
+      "x-bool": false,
+      "2": "3.90",
+      "2-bool": false
+    },
+    {
+      "match": "Senica - Slovan Bratislava",
+      "1": "6.90",
+      "1-bool": false,
+      "x": "4.65",
+      "x-bool": false,
+      "2": "1.45",
+      "2-bool": true
+    },
+    {
+      "match": "Sered - Dunajska Streda",
+      "1": "7.73",
+      "1-bool": true,
+      "x": "4.78",
+      "x-bool": false,
+      "2": "1.42",
+      "2-bool": false
+    },
+    {
+      "match": "Zemplin Michalovce - Zilina",
+      "1": "2.75",
+      "1-bool": false,
+      "x": "3.75",
+      "x-bool": true,
+      "2": "2.69",
+      "2-bool": false
+    },
+    {
+      "match": "Nitra - Senica",
+      "1": "3.24",
+      "1-bool": false,
+      "x": "3.45",
+      "x-bool": true,
+      "2": "2.30",
+      "2-bool": false
+    },
+    {
+      "match": "Pohronie - Ruzomberok",
+      "1": "2.44",
+      "1-bool": false,
+      "x": "3.52",
+      "x-bool": true,
+      "2": "2.85",
+      "2-bool": false
+    },
+    {
+      "match": "Sered - Spartak Trnava",
+      "1": "3.18",
+      "1-bool": false,
+      "x": "3.09",
+      "x-bool": false,
+      "2": "2.49",
+      "2-bool": true
+    },
+    {
+      "match": "Slovan Bratislava - Trencin",
+      "1": "1.26",
+      "1-bool": true,
+      "x": "6.50",
+      "x-bool": false,
+      "2": "11.61",
+      "2-bool": false
+    },
+    {
+      "match": "Dunajska Streda - Zlate Moravce",
+      "1": "1.30",
+      "1-bool": false,
+      "x": "6.15",
+      "x-bool": false,
+      "2": "8.50",
+      "2-bool": true
+    },
+    {
+      "match": "Senica - Zlate Moravce",
+      "1": "2.86",
+      "1-bool": false,
+      "x": "3.41",
+      "x-bool": true,
+      "2": "2.65",
+      "2-bool": false
+    },
+    {
+      "match": "Zilina - Sered",
+      "1": "1.45",
+      "1-bool": false,
+      "x": "5.25",
+      "x-bool": true,
+      "2": "6.50",
+      "2-bool": false
+    },
+    {
+      "match": "Ruzomberok - Dunajska Streda",
+      "1": "3.83",
+      "1-bool": false,
+      "x": "3.80",
+      "x-bool": true,
+      "2": "1.93",
+      "2-bool": false
+    },
+    {
+      "match": "Trencin - Zemplin Michalovce",
+      "1": "1.76",
+      "1-bool": false,
+      "x": "4.05",
+      "x-bool": true,
+      "2": "4.50",
+      "2-bool": false
+    },
+    {
+      "match": "Spartak Trnava - Slovan Bratislava",
+      "1": "5.65",
+      "1-bool": false,
+      "x": "3.75",
+      "x-bool": false,
+      "2": "1.71",
+      "2-bool": true
+    },
+    {
+      "match": "Dunajska Streda - Senica",
+      "1": "1.45",
+      "1-bool": true,
+      "x": "6.00",
+      "x-bool": false,
+      "2": "10.00",
+      "2-bool": false
+    },
+    {
+      "match": "Zemplin Michalovce - Ruzomberok",
+      "1": "2.96",
+      "1-bool": true,
+      "x": "3.43",
+      "x-bool": false,
+      "2": "2.45",
+      "2-bool": false
+    },
+    {
+      "match": "Nitra - Trencin",
+      "1": "2.76",
+      "1-bool": false,
+      "x": "3.70",
+      "x-bool": false,
+      "2": "2.50",
+      "2-bool": true
+    },
+    {
+      "match": "Slovan Bratislava - Zilina",
+      "1": "1.36",
+      "1-bool": true,
+      "x": "5.50",
+      "x-bool": false,
+      "2": "8.20",
+      "2-bool": false
+    },
+    {
+      "match": "Zlate Moravce - Spartak Trnava",
+      "1": "3.11",
+      "1-bool": false,
+      "x": "3.32",
+      "x-bool": false,
+      "2": "2.45",
+      "2-bool": true
+    },
+    {
+      "match": "Pohronie - Nitra",
+      "1": "1.93",
+      "1-bool": true,
+      "x": "4.00",
+      "x-bool": false,
+      "2": "4.80",
+      "2-bool": false
+    },
+    {
+      "match": "Sered - Pohronie",
+      "1": "3.06",
+      "1-bool": false,
+      "x": "3.32",
+      "x-bool": false,
+      "2": "2.50",
+      "2-bool": true
+    },
+    {
+      "match": "Spartak Trnava - Senica",
+      "1": "2.09",
+      "1-bool": true,
+      "x": "3.38",
+      "x-bool": false,
+      "2": "3.92",
+      "2-bool": false
+    },
+    {
+      "match": "Zilina - Zlate Moravce",
+      "1": "1.57",
+      "1-bool": true,
+      "x": "4.70",
+      "x-bool": false,
+      "2": "5.75",
+      "2-bool": false
+    },
+    {
+      "match": "Ruzomberok - Slovan Bratislava",
+      "1": "5.45",
+      "1-bool": false,
+      "x": "3.88",
+      "x-bool": true,
+      "2": "1.68",
+      "2-bool": false
+    },
+    {
+      "match": "Pohronie - Zemplin Michalovce",
+      "1": "2.05",
+      "1-bool": false,
+      "x": "3.65",
+      "x-bool": true,
+      "2": "4.09",
+      "2-bool": false
+    },
+    {
+      "match": "Trencin - Dunajska Streda",
+      "1": "4.74",
+      "1-bool": false,
+      "x": "4.47",
+      "x-bool": true,
+      "2": "1.68",
+      "2-bool": false
+    },
+    {
+      "match": "Senica - Trencin",
+      "1": "2.47",
+      "1-bool": false,
+      "x": "3.45",
+      "x-bool": false,
+      "2": "2.84",
+      "2-bool": true
+    },
+    {
+      "match": "Zemplin Michalovce - Sered",
+      "1": "1.83",
+      "1-bool": false,
+      "x": "3.65",
+      "x-bool": false,
+      "2": "4.49",
+      "2-bool": true
+    },
+    {
+      "match": "Slovan Bratislava - Pohronie",
+      "1": "1.31",
+      "1-bool": true,
+      "x": "6.00",
+      "x-bool": false,
+      "2": "10.95",
+      "2-bool": false
+    },
+    {
+      "match": "Zlate Moravce - Ruzomberok",
+      "1": "2.50",
+      "1-bool": true,
+      "x": "3.40",
+      "x-bool": false,
+      "2": "2.88",
+      "2-bool": false
+    },
+    {
+      "match": "Nitra - Spartak Trnava",
+      "1": "3.90",
+      "1-bool": false,
+      "x": "3.60",
+      "x-bool": false,
+      "2": "2.11",
+      "2-bool": true
+    },
+    {
+      "match": "Dunajska Streda - Zilina",
+      "1": "1.76",
+      "1-bool": false,
+      "x": "4.10",
+      "x-bool": true,
+      "2": "4.40",
+      "2-bool": false
+    },
+    {
+      "match": "Sered - Nitra",
+      "1": "2.43",
+      "1-bool": false,
+      "x": "3.13",
+      "x-bool": false,
+      "2": "3.28",
+      "2-bool": true
+    },
+    {
+      "match": "Ruzomberok - Senica",
+      "1": "2.19",
+      "1-bool": false,
+      "x": "3.46",
+      "x-bool": false,
+      "2": "3.63",
+      "2-bool": true
+    },
+    {
+      "match": "Nitra - Zlate Moravce",
+      "1": "2.92",
+      "1-bool": false,
+      "x": "3.45",
+      "x-bool": false,
+      "2": "2.39",
+      "2-bool": true
+    },
+    {
+      "match": "Dunajska Streda - Zemplin Michalovce",
+      "1": "1.27",
+      "1-bool": true,
+      "x": "6.00",
+      "x-bool": false,
+      "2": "10.27",
+      "2-bool": false
+    },
+    {
+      "match": "Pohronie - Trencin",
+      "1": "2.25",
+      "1-bool": false,
+      "x": "4.00",
+      "x-bool": false,
+      "2": "3.10",
+      "2-bool": true
+    },
+    {
+      "match": "Spartak Trnava - Zilina",
+      "1": "2.27",
+      "1-bool": true,
+      "x": "3.42",
+      "x-bool": false,
+      "2": "3.21",
+      "2-bool": false
+    },
+    {
+      "match": "Sered - Slovan Bratislava",
+      "1": "12.84",
+      "1-bool": false,
+      "x": "6.43",
+      "x-bool": false,
+      "2": "1.24",
+      "2-bool": true
+    },
+    {
+      "match": "Zlate Moravce - Sered",
+      "1": "1.61",
+      "1-bool": true,
+      "x": "4.30",
+      "x-bool": false,
+      "2": "5.40",
+      "2-bool": false
+    },
+    {
+      "match": "Slovan Bratislava - Dunajska Streda",
+      "1": "2.16",
+      "1-bool": true,
+      "x": "3.60",
+      "x-bool": false,
+      "2": "4.10",
+      "2-bool": false
+    },
+    {
+      "match": "Trencin - Spartak Trnava",
+      "1": "2.90",
+      "1-bool": true,
+      "x": "3.28",
+      "x-bool": false,
+      "2": "2.95",
+      "2-bool": false
+    },
+    {
+      "match": "Zemplin Michalovce - Nitra",
+      "1": "2.00",
+      "1-bool": true,
+      "x": "3.85",
+      "x-bool": false,
+      "2": "4.66",
+      "2-bool": false
+    },
+    {
+      "match": "Zilina - Ruzomberok",
+      "1": "1.65",
+      "1-bool": true,
+      "x": "4.49",
+      "x-bool": false,
+      "2": "4.77",
+      "2-bool": false
+    },
+    {
+      "match": "Senica - Pohronie",
+      "1": "2.84",
+      "1-bool": false,
+      "x": "3.50",
+      "x-bool": true,
+      "2": "2.54",
+      "2-bool": false
+    },
+    {
+      "match": "Pohronie - Senica",
+      "1": "2.33",
+      "1-bool": true,
+      "x": "3.20",
+      "x-bool": false,
+      "2": "3.44",
+      "2-bool": false
+    },
+    {
+      "match": "Sered - Ruzomberok",
+      "1": "3.61",
+      "1-bool": true,
+      "x": "3.61",
+      "x-bool": false,
+      "2": "2.35",
+      "2-bool": false
+    },
+    {
+      "match": "Zemplin Michalovce - Nitra",
+      "1": "1.77",
+      "1-bool": false,
+      "x": "4.20",
+      "x-bool": true,
+      "2": "4.65",
+      "2-bool": false
+    },
+    {
+      "match": "Dunajska Streda - Zlate Moravce",
+      "1": "1.33",
+      "1-bool": true,
+      "x": "5.87",
+      "x-bool": false,
+      "2": "10.14",
+      "2-bool": false
+    },
+    {
+      "match": "Zilina - Spartak Trnava",
+      "1": "1.90",
+      "1-bool": true,
+      "x": "3.76",
+      "x-bool": false,
+      "2": "4.44",
+      "2-bool": false
+    },
+    {
+      "match": "Trencin - Slovan Bratislava",
+      "1": "8.96",
+      "1-bool": false,
+      "x": "4.95",
+      "x-bool": false,
+      "2": "1.45",
+      "2-bool": true
+    },
+    {
+      "match": "Ruzomberok - Zemplin Michalovce",
+      "1": "1.74",
+      "1-bool": true,
+      "x": "3.54",
+      "x-bool": false,
+      "2": "5.32",
+      "2-bool": false
+    },
+    {
+      "match": "Zlate Moravce - Trencin",
+      "1": "1.96",
+      "1-bool": true,
+      "x": "3.84",
+      "x-bool": false,
+      "2": "3.90",
+      "2-bool": false
+    },
+    {
+      "match": "Nitra - Pohronie",
+      "1": "3.49",
+      "1-bool": false,
+      "x": "3.54",
+      "x-bool": false,
+      "2": "2.18",
+      "2-bool": true
+    },
+    {
+      "match": "Senica - Sered",
+      "1": "1.86",
+      "1-bool": true,
+      "x": "3.54",
+      "x-bool": false,
+      "2": "4.45",
+      "2-bool": false
+    },
+    {
+      "match": "Slovan Bratislava - Zilina",
+      "1": "1.38",
+      "1-bool": false,
+      "x": "5.61",
+      "x-bool": true,
+      "2": "8.16",
+      "2-bool": false
+    },
+    {
+      "match": "Spartak Trnava - Dunajska Streda",
+      "1": "3.69",
+      "1-bool": true,
+      "x": "3.70",
+      "x-bool": false,
+      "2": "2.06",
+      "2-bool": false
+    },
+    {
+      "match": "Slovan Bratislava - Zlate Moravce",
+      "1": "1.20",
+      "1-bool": true,
+      "x": "8.93",
+      "x-bool": false,
+      "2": "16.60",
+      "2-bool": false
+    },
+    {
+      "match": "Trencin - Spartak Trnava",
+      "1": "2.60",
+      "1-bool": false,
+      "x": "3.39",
+      "x-bool": false,
+      "2": "3.03",
+      "2-bool": true
+    },
+    {
+      "match": "Zemplin Michalovce - Senica",
+      "1": "3.04",
+      "1-bool": true,
+      "x": "3.43",
+      "x-bool": false,
+      "2": "2.47",
+      "2-bool": false
+    },
+    {
+      "match": "Pohronie - Sered",
+      "1": "1.62",
+      "1-bool": false,
+      "x": "4.48",
+      "x-bool": false,
+      "2": "5.20",
+      "2-bool": true
+    },
+    {
+      "match": "Nitra - Ruzomberok",
+      "1": "3.60",
+      "1-bool": true,
+      "x": "3.54",
+      "x-bool": false,
+      "2": "2.15",
+      "2-bool": false
+    },
+    {
+      "match": "Zilina - Dunajska Streda",
+      "1": "2.83",
+      "1-bool": false,
+      "x": "3.65",
+      "x-bool": true,
+      "2": "2.60",
+      "2-bool": false
+    },
+    {
+      "match": "Trencin - Zilina",
+      "1": "2.96",
+      "1-bool": false,
+      "x": "3.80",
+      "x-bool": false,
+      "2": "2.33",
+      "2-bool": true
+    },
+    {
+      "match": "Spartak Trnava - Zlate Moravce",
+      "1": "1.73",
+      "1-bool": true,
+      "x": "4.12",
+      "x-bool": false,
+      "2": "4.90",
+      "2-bool": false
+    },
+    {
+      "match": "Sered - Nitra",
+      "1": "2.38",
+      "1-bool": true,
+      "x": "3.30",
+      "x-bool": false,
+      "2": "3.40",
+      "2-bool": false
+    },
+    {
+      "match": "Senica - Ruzomberok",
+      "1": "2.01",
+      "1-bool": false,
+      "x": "3.65",
+      "x-bool": false,
+      "2": "4.10",
+      "2-bool": true
+    },
+    {
+      "match": "Zemplin Michalovce - Pohronie",
+      "1": "3.04",
+      "1-bool": false,
+      "x": "3.46",
+      "x-bool": false,
+      "2": "2.42",
+      "2-bool": true
+    },
+    {
+      "match": "Dunajska Streda - Slovan Bratislava",
+      "1": "3.19",
+      "1-bool": false,
+      "x": "3.33",
+      "x-bool": true,
+      "2": "2.34",
+      "2-bool": false
+    },
+    {
+      "match": "Ruzomberok - Pohronie",
+      "1": "2.35",
+      "1-bool": true,
+      "x": "3.22",
+      "x-bool": false,
+      "2": "3.51",
+      "2-bool": false
+    },
+    {
+      "match": "Slovan Bratislava - Spartak Trnava",
+      "1": "1.42",
+      "1-bool": false,
+      "x": "5.00",
+      "x-bool": false,
+      "2": "9.20",
+      "2-bool": true
+    },
+    {
+      "match": "Sered - Zemplin Michalovce",
+      "1": "2.55",
+      "1-bool": true,
+      "x": "3.56",
+      "x-bool": false,
+      "2": "3.15",
+      "2-bool": false
+    },
+    {
+      "match": "Nitra - Senica",
+      "1": "2.73",
+      "1-bool": false,
+      "x": "3.46",
+      "x-bool": false,
+      "2": "2.62",
+      "2-bool": true
+    },
+    {
+      "match": "Dunajska Streda - Trencin",
+      "1": "1.41",
+      "1-bool": true,
+      "x": "5.49",
+      "x-bool": false,
+      "2": "7.14",
+      "2-bool": false
+    },
+    {
+      "match": "Zlate Moravce - Zilina",
+      "1": "3.07",
+      "1-bool": true,
+      "x": "3.92",
+      "x-bool": false,
+      "2": "2.23",
+      "2-bool": false
+    },
+    {
+      "match": "Zlate Moravce - Dunajska Streda",
+      "1": "4.57",
+      "1-bool": false,
+      "x": "4.10",
+      "x-bool": false,
+      "2": "1.75",
+      "2-bool": true
+    },
+    {
+      "match": "Ruzomberok - Sered",
+      "1": "2.10",
+      "1-bool": true,
+      "x": "3.34",
+      "x-bool": false,
+      "2": "4.00",
+      "2-bool": false
+    },
+    {
+      "match": "Spartak Trnava - Trencin",
+      "1": "1.78",
+      "1-bool": true,
+      "x": "3.99",
+      "x-bool": false,
+      "2": "4.40",
+      "2-bool": false
+    },
+    {
+      "match": "Senica - Zemplin Michalovce",
+      "1": "1.94",
+      "1-bool": false,
+      "x": "3.47",
+      "x-bool": true,
+      "2": "4.50",
+      "2-bool": false
+    },
+    {
+      "match": "Pohronie - Nitra",
+      "1": "1.51",
+      "1-bool": false,
+      "x": "4.75",
+      "x-bool": true,
+      "2": "6.85",
+      "2-bool": false
+    },
+    {
+      "match": "Zilina - Slovan Bratislava",
+      "1": "4.45",
+      "1-bool": false,
+      "x": "4.45",
+      "x-bool": false,
+      "2": "1.78",
+      "2-bool": true
+    },
+    {
+      "match": "Dunajska Streda - Zilina",
+      "1": "1.87",
+      "1-bool": true,
+      "x": "4.01",
+      "x-bool": false,
+      "2": "4.50",
+      "2-bool": false
+    },
+    {
+      "match": "Trencin - Zlate Moravce",
+      "1": "2.10",
+      "1-bool": true,
+      "x": "3.99",
+      "x-bool": false,
+      "2": "4.45",
+      "2-bool": false
+    },
+    {
+      "match": "Zemplin Michalovce - Ruzomberok",
+      "1": "2.06",
+      "1-bool": true,
+      "x": "3.58",
+      "x-bool": false,
+      "2": "3.94",
+      "2-bool": false
+    },
+    {
+      "match": "Sered - Pohronie",
+      "1": "3.32",
+      "1-bool": false,
+      "x": "3.22",
+      "x-bool": false,
+      "2": "2.45",
+      "2-bool": true
+    },
+    {
+      "match": "Senica - Nitra",
+      "1": "1.64",
+      "1-bool": true,
+      "x": "4.75",
+      "x-bool": false,
+      "2": "7.11",
+      "2-bool": false
+    },
+    {
+      "match": "Spartak Trnava - Slovan Bratislava",
+      "1": "4.47",
+      "1-bool": true,
+      "x": "3.90",
+      "x-bool": false,
+      "2": "1.76",
+      "2-bool": false
+    },
+    {
+      "match": "Pohronie - Zemplin Michalovce",
+      "1": "2.08",
+      "1-bool": false,
+      "x": "3.59",
+      "x-bool": true,
+      "2": "3.90",
+      "2-bool": false
+    },
+    {
+      "match": "Ruzomberok - Senica",
+      "1": "2.33",
+      "1-bool": false,
+      "x": "3.30",
+      "x-bool": true,
+      "2": "3.20",
+      "2-bool": false
+    },
+    {
+      "match": "Zlate Moravce - Spartak Trnava",
+      "1": "3.58",
+      "1-bool": false,
+      "x": "3.46",
+      "x-bool": true,
+      "2": "2.18",
+      "2-bool": false
+    },
+    {
+      "match": "Zilina - Trencin",
+      "1": "1.72",
+      "1-bool": true,
+      "x": "4.55",
+      "x-bool": false,
+      "2": "4.47",
+      "2-bool": false
+    },
+    {
+      "match": "Nitra - Sered",
+      "1": "4.44",
+      "1-bool": false,
+      "x": "3.80",
+      "x-bool": false,
+      "2": "1.85",
+      "2-bool": true
+    },
+    {
+      "match": "Slovan Bratislava - Dunajska Streda",
+      "1": "1.70",
+      "1-bool": false,
+      "x": "4.25",
+      "x-bool": false,
+      "2": "4.50",
+      "2-bool": true
+    },
+    {
+      "match": "Zemplin Michalovce - Sered",
+      "1": "1.45",
+      "1-bool": false,
+      "x": "4.80",
+      "x-bool": true,
+      "2": "8.13",
+      "2-bool": false
+    },
+    {
+      "match": "Ruzomberok - Nitra",
+      "1": "1.47",
+      "1-bool": true,
+      "x": "4.40",
+      "x-bool": false,
+      "2": "7.78",
+      "2-bool": false
+    },
+    {
+      "match": "Senica - Pohronie",
+      "1": "2.14",
+      "1-bool": false,
+      "x": "3.35",
+      "x-bool": true,
+      "2": "3.55",
+      "2-bool": false
+    },
+    {
+      "match": "Zlate Moravce - Slovan Bratislava",
+      "1": "7.64",
+      "1-bool": false,
+      "x": "5.37",
+      "x-bool": false,
+      "2": "1.41",
+      "2-bool": true
+    },
+    {
+      "match": "Trencin - Dunajska Streda",
+      "1": "4.26",
+      "1-bool": false,
+      "x": "4.20",
+      "x-bool": true,
+      "2": "1.80",
+      "2-bool": false
+    },
+    {
+      "match": "Spartak Trnava - Zilina",
+      "1": "1.84",
+      "1-bool": false,
+      "x": "3.90",
+      "x-bool": true,
+      "2": "4.80",
+      "2-bool": false
+    },
+    {
+      "match": "Pohronie - Ruzomberok",
+      "1": "2.28",
+      "1-bool": true,
+      "x": "3.45",
+      "x-bool": false,
+      "2": "4.01",
+      "2-bool": false
+    },
+    {
+      "match": "Sered - Senica",
+      "1": "4.19",
+      "1-bool": true,
+      "x": "4.46",
+      "x-bool": false,
+      "2": "1.80",
+      "2-bool": false
+    },
+    {
+      "match": "Nitra - Zemplin Michalovce",
+      "1": "7.40",
+      "1-bool": false,
+      "x": "5.25",
+      "x-bool": false,
+      "2": "1.52",
+      "2-bool": true
+    },
+    {
+      "match": "Dunajska Streda - Spartak Trnava",
+      "1": "1.63",
+      "1-bool": true,
+      "x": "4.42",
+      "x-bool": false,
+      "2": "4.95",
+      "2-bool": false
+    },
+    {
+      "match": "Slovan Bratislava - Trencin",
+      "1": "1.31",
+      "1-bool": true,
+      "x": "6.25",
+      "x-bool": false,
+      "2": "9.08",
+      "2-bool": false
+    },
+    {
+      "match": "Zilina - Zlate Moravce",
+      "1": "1.56",
+      "1-bool": true,
+      "x": "6.21",
+      "x-bool": false,
+      "2": "6.50",
+      "2-bool": false
+    },
+    {
+      "match": "Dolny Kubin - Puchov",
+      "1": "5.75",
+      "1-bool": false,
+      "x": "5.20",
+      "x-bool": false,
+      "2": "1.43",
+      "2-bool": false
+    },
+    {
+      "match": "Dunajska Luzna - Pohronie",
+      "1": "29.00",
+      "1-bool": false,
+      "x": "16.00",
+      "x-bool": false,
+      "2": "1.05",
+      "2-bool": false
+    },
+    {
+      "match": "Odeva Lipany - Ruzomberok",
+      "1": "10.00",
+      "1-bool": false,
+      "x": "5.95",
+      "x-bool": false,
+      "2": "1.21",
+      "2-bool": false
+    },
+    {
+      "match": "Spartak Myjava - Trencin",
+      "1": "13.25",
+      "1-bool": false,
+      "x": "8.10",
+      "x-bool": false,
+      "2": "1.14",
+      "2-bool": false
+    },
+    {
+      "match": "Lokomotiva Zvolen - Nitra",
+      "1": "6.75",
+      "1-bool": false,
+      "x": "4.90",
+      "x-bool": false,
+      "2": "1.35",
+      "2-bool": false
+    },
+    {
+      "match": "Fomat Martin - Aquacity Poprad",
+      "1": "1.65",
+      "1-bool": false,
+      "x": "4.40",
+      "x-bool": false,
+      "2": "4.10",
+      "2-bool": false
+    },
+    {
+      "match": "Dunajska Luzna - Pohronie",
+      "1": "20.00",
+      "1-bool": false,
+      "x": "16.75",
+      "x-bool": false,
+      "2": "1.02",
+      "2-bool": false
+    },
+    {
+      "match": "Odeva Lipany - Ruzomberok",
+      "1": "7.25",
+      "1-bool": false,
+      "x": "5.70",
+      "x-bool": false,
+      "2": "1.35",
+      "2-bool": false
+    },
+    {
+      "match": "Rimavska Sobota - Kosice",
+      "1": "12.75",
+      "1-bool": false,
+      "x": "8.20",
+      "x-bool": false,
+      "2": "1.20",
+      "2-bool": false
+    },
+    {
+      "match": "Namestovo - Zilina",
+      "1": "11.00",
+      "1-bool": false,
+      "x": "7.20",
+      "x-bool": false,
+      "2": "1.20",
+      "2-bool": false
+    },
+    {
+      "match": "Lokomotiva Zvolen - Nitra",
+      "1": "11.50",
+      "1-bool": false,
+      "x": "6.90",
+      "x-bool": false,
+      "2": "1.21",
+      "2-bool": false
+    },
+    {
+      "match": "Spartak Myjava - Trencin",
+      "1": "9.25",
+      "1-bool": false,
+      "x": "6.45",
+      "x-bool": false,
+      "2": "1.28",
+      "2-bool": false
+    },
+    {
+      "match": "Tatran Presov - Ruzomberok",
+      "1": "8.80",
+      "1-bool": false,
+      "x": "5.60",
+      "x-bool": false,
+      "2": "1.32",
+      "2-bool": false
+    },
+    {
+      "match": "Samorin - Komarno",
+      "1": "2.25",
+      "1-bool": false,
+      "x": "3.30",
+      "x-bool": false,
+      "2": "3.04",
+      "2-bool": false
+    },
+    {
+      "match": "Zemplin Michalovce - Kosice",
+      "1": "1.63",
+      "1-bool": false,
+      "x": "3.90",
+      "x-bool": false,
+      "2": "5.50",
+      "2-bool": false
+    },
+    {
+      "match": "Dubnica - Podbrezova",
+      "1": "10.25",
+      "1-bool": false,
+      "x": "4.95",
+      "x-bool": false,
+      "2": "1.41",
+      "2-bool": false
+    },
+    {
+      "match": "Spartak Trnava - Trencin",
+      "1": "2.31",
+      "1-bool": false,
+      "x": "3.35",
+      "x-bool": false,
+      "2": "3.15",
+      "2-bool": false
+    },
+    {
+      "match": "Pohronie - Petrzalka",
+      "1": "1.51",
+      "1-bool": false,
+      "x": "4.20",
+      "x-bool": false,
+      "2": "6.44",
+      "2-bool": false
+    },
+    {
+      "match": "Banska Bystrica - Komarno",
+      "1": "1.63",
+      "1-bool": false,
+      "x": "3.96",
+      "x-bool": false,
+      "2": "4.95",
+      "2-bool": false
+    },
+    {
+      "match": "Kosice - Sered",
+      "1": "3.44",
+      "1-bool": false,
+      "x": "3.62",
+      "x-bool": false,
+      "2": "2.06",
+      "2-bool": false
+    },
+    {
+      "match": "Zlate Moravce - Skalica",
+      "1": "1.69",
+      "1-bool": false,
+      "x": "4.00",
+      "x-bool": false,
+      "2": "4.45",
+      "2-bool": false
+    },
+    {
+      "match": "Ruzomberok - Dunajska Streda",
+      "1": "8.00",
+      "1-bool": false,
+      "x": "4.65",
+      "x-bool": false,
+      "2": "1.55",
+      "2-bool": false
+    },
+    {
+      "match": "Zilina - Podbrezova",
+      "1": "1.53",
+      "1-bool": false,
+      "x": "4.50",
+      "x-bool": false,
+      "2": "5.75",
+      "2-bool": false
+    },
+    {
+      "match": "Slovan Bratislava - Liptovsky Mikulas",
+      "1": "1.24",
+      "1-bool": false,
+      "x": "6.40",
+      "x-bool": false,
+      "2": "14.00",
+      "2-bool": false
+    },
+    {
+      "match": "Kosice - Trencin",
+      "1": "4.03",
+      "1-bool": false,
+      "x": "3.62",
+      "x-bool": false,
+      "2": "1.91",
+      "2-bool": false
+    },
+    {
+      "match": "Zlate Moravce - Zilina",
+      "1": "3.25",
+      "1-bool": false,
+      "x": "3.87",
+      "x-bool": false,
+      "2": "2.12",
+      "2-bool": false
+    },
+    {
+      "match": "Banska Bystrica - Dunajska Streda",
+      "1": "5.15",
+      "1-bool": false,
+      "x": "3.92",
+      "x-bool": false,
+      "2": "1.74",
+      "2-bool": false
+    },
+    {
+      "match": "Slovan Bratislava - Petrzalka",
+      "1": "1.21",
+      "1-bool": false,
+      "x": "7.90",
+      "x-bool": false,
+      "2": "16.00",
+      "2-bool": false
+    },
+    {
+      "match": "Kosice - Zilina",
+      "1": "4.00",
+      "1-bool": false,
+      "x": "4.00",
+      "x-bool": false,
+      "2": "1.81",
+      "2-bool": false
+    },
+    {
+      "match": "Slovan Bratislava - Banska Bystrica",
+      "1": "1.24",
+      "1-bool": false,
+      "x": "5.95",
+      "x-bool": false,
+      "2": "10.50",
+      "2-bool": false
+    },
+    {
+      "match": "Zilina - Kosice",
+      "1": "1.44",
+      "1-bool": false,
+      "x": "4.95",
+      "x-bool": false,
+      "2": "6.95",
+      "2-bool": false
+    },
+    {
+      "match": "Banska Bystrica - Slovan Bratislava",
+      "1": "6.60",
+      "1-bool": false,
+      "x": "3.74",
+      "x-bool": false,
+      "2": "1.66",
+      "2-bool": false
+    },
+    {
+      "match": "Liptovsky Mikulas - Samorin",
+      "1": "1.68",
+      "1-bool": true,
+      "x": "3.98",
+      "x-bool": false,
+      "2": "4.35",
+      "2-bool": false
+    },
+    {
+      "match": "Banska Bystrica - Slavoj Trebisov",
+      "1": "1.15",
+      "1-bool": true,
+      "x": "7.25",
+      "x-bool": false,
+      "2": "14.50",
+      "2-bool": false
+    },
+    {
+      "match": "Puchov - Bardejov",
+      "1": "2.45",
+      "1-bool": true,
+      "x": "3.40",
+      "x-bool": false,
+      "2": "2.62",
+      "2-bool": false
+    },
+    {
+      "match": "Podbrezova - Slovan Bratislava B",
+      "1": "1.13",
+      "1-bool": true,
+      "x": "7.60",
+      "x-bool": false,
+      "2": "14.50",
+      "2-bool": false
+    },
+    {
+      "match": "Skalica - Dubnica",
+      "1": "1.75",
+      "1-bool": true,
+      "x": "3.74",
+      "x-bool": false,
+      "2": "4.20",
+      "2-bool": false
+    },
+    {
+      "match": "Zilina B - Petrzalka",
+      "1": "1.14",
+      "1-bool": false,
+      "x": "7.70",
+      "x-bool": false,
+      "2": "12.75",
+      "2-bool": true
+    },
+    {
+      "match": "Slavoj Trebisov - Kosice",
+      "1": "5.55",
+      "1-bool": false,
+      "x": "4.30",
+      "x-bool": true,
+      "2": "1.50",
+      "2-bool": false
+    },
+    {
+      "match": "Banska Bystrica - Skalica",
+      "1": "1.63",
+      "1-bool": false,
+      "x": "3.88",
+      "x-bool": false,
+      "2": "5.10",
+      "2-bool": true
+    },
+    {
+      "match": "Dubnica - Podbrezova",
+      "1": "3.75",
+      "1-bool": false,
+      "x": "3.70",
+      "x-bool": true,
+      "2": "1.86",
+      "2-bool": false
+    },
+    {
+      "match": "Komarno - Liptovsky Mikulas",
+      "1": "1.86",
+      "1-bool": false,
+      "x": "3.90",
+      "x-bool": false,
+      "2": "4.05",
+      "2-bool": true
+    },
+    {
+      "match": "Samorin - Puchov",
+      "1": "1.88",
+      "1-bool": true,
+      "x": "3.75",
+      "x-bool": false,
+      "2": "3.68",
+      "2-bool": false
+    },
+    {
+      "match": "Petrzalka - Aquacity Poprad",
+      "1": "1.35",
+      "1-bool": true,
+      "x": "4.60",
+      "x-bool": false,
+      "2": "7.75",
+      "2-bool": false
+    },
+    {
+      "match": "Podbrezova - Banska Bystrica",
+      "1": "2.04",
+      "1-bool": false,
+      "x": "3.54",
+      "x-bool": false,
+      "2": "3.45",
+      "2-bool": true
+    },
+    {
+      "match": "Kosice - Bardejov",
+      "1": "1.38",
+      "1-bool": true,
+      "x": "4.85",
+      "x-bool": false,
+      "2": "7.25",
+      "2-bool": false
+    },
+    {
+      "match": "Liptovsky Mikulas - Petrzalka",
+      "1": "1.70",
+      "1-bool": true,
+      "x": "3.92",
+      "x-bool": false,
+      "2": "4.25",
+      "2-bool": false
+    },
+    {
+      "match": "Skalica - Slavoj Trebisov",
+      "1": "1.23",
+      "1-bool": true,
+      "x": "6.30",
+      "x-bool": false,
+      "2": "11.75",
+      "2-bool": false
+    },
+    {
+      "match": "Zilina B - Dubnica",
+      "1": "3.20",
+      "1-bool": false,
+      "x": "3.96",
+      "x-bool": true,
+      "2": "1.95",
+      "2-bool": false
+    },
+    {
+      "match": "Banska Bystrica - Zilina B",
+      "1": "1.35",
+      "1-bool": true,
+      "x": "5.45",
+      "x-bool": false,
+      "2": "7.10",
+      "2-bool": false
+    },
+    {
+      "match": "Dubnica - Aquacity Poprad",
+      "1": "1.22",
+      "1-bool": true,
+      "x": "6.20",
+      "x-bool": false,
+      "2": "11.50",
+      "2-bool": false
+    },
+    {
+      "match": "Slavoj Trebisov - Bardejov",
+      "1": "2.17",
+      "1-bool": true,
+      "x": "3.54",
+      "x-bool": false,
+      "2": "3.25",
+      "2-bool": false
+    },
+    {
+      "match": "Skalica - Podbrezova",
+      "1": "2.23",
+      "1-bool": false,
+      "x": "3.14",
+      "x-bool": false,
+      "2": "3.17",
+      "2-bool": true
+    },
+    {
+      "match": "Samorin - Kosice",
+      "1": "3.56",
+      "1-bool": false,
+      "x": "3.64",
+      "x-bool": false,
+      "2": "1.95",
+      "2-bool": true
+    },
+    {
+      "match": "Petrzalka - Puchov",
+      "1": "1.81",
+      "1-bool": true,
+      "x": "3.70",
+      "x-bool": false,
+      "2": "3.78",
+      "2-bool": false
+    },
+    {
+      "match": "Slovan Bratislava B - Liptovsky Mikulas",
+      "1": "2.35",
+      "1-bool": false,
+      "x": "3.66",
+      "x-bool": false,
+      "2": "2.66",
+      "2-bool": true
+    },
+    {
+      "match": "Aquacity Poprad - Slovan Bratislava B",
+      "1": "2.39",
+      "1-bool": true,
+      "x": "3.65",
+      "x-bool": false,
+      "2": "2.61",
+      "2-bool": false
+    },
+    {
+      "match": "Kosice - Komarno",
+      "1": "1.40",
+      "1-bool": true,
+      "x": "4.55",
+      "x-bool": false,
+      "2": "7.50",
+      "2-bool": false
+    },
+    {
+      "match": "Puchov - Slovan Bratislava B",
+      "1": "1.23",
+      "1-bool": true,
+      "x": "5.90",
+      "x-bool": false,
+      "2": "11.00",
+      "2-bool": false
+    },
+    {
+      "match": "Liptovsky Mikulas - Dubnica",
+      "1": "2.17",
+      "1-bool": true,
+      "x": "3.50",
+      "x-bool": false,
+      "2": "3.02",
+      "2-bool": false
+    },
+    {
+      "match": "Bardejov - Samorin",
+      "1": "1.59",
+      "1-bool": false,
+      "x": "4.25",
+      "x-bool": true,
+      "2": "5.60",
+      "2-bool": false
+    },
+    {
+      "match": "Aquacity Poprad - Banska Bystrica",
+      "1": "8.75",
+      "1-bool": false,
+      "x": "6.10",
+      "x-bool": false,
+      "2": "1.29",
+      "2-bool": true
+    },
+    {
+      "match": "Podbrezova - Slavoj Trebisov",
+      "1": "1.25",
+      "1-bool": true,
+      "x": "6.10",
+      "x-bool": false,
+      "2": "11.25",
+      "2-bool": false
+    },
+    {
+      "match": "Zilina B - Skalica",
+      "1": "3.82",
+      "1-bool": false,
+      "x": "4.10",
+      "x-bool": false,
+      "2": "1.85",
+      "2-bool": true
+    },
+    {
+      "match": "Dubnica - Puchov",
+      "1": "1.45",
+      "1-bool": false,
+      "x": "4.40",
+      "x-bool": false,
+      "2": "6.40",
+      "2-bool": true
+    },
+    {
+      "match": "Slavoj Trebisov - Samorin",
+      "1": "1.50",
+      "1-bool": true,
+      "x": "5.20",
+      "x-bool": false,
+      "2": "7.00",
+      "2-bool": false
+    },
+    {
+      "match": "Komarno - Bardejov",
+      "1": "1.73",
+      "1-bool": true,
+      "x": "4.15",
+      "x-bool": false,
+      "2": "4.60",
+      "2-bool": false
+    },
+    {
+      "match": "Banska Bystrica - Liptovsky Mikulas",
+      "1": "1.48",
+      "1-bool": false,
+      "x": "4.60",
+      "x-bool": true,
+      "2": "5.40",
+      "2-bool": false
+    },
+    {
+      "match": "Podbrezova - Zilina B",
+      "1": "1.30",
+      "1-bool": true,
+      "x": "5.55",
+      "x-bool": false,
+      "2": "8.80",
+      "2-bool": false
+    },
+    {
+      "match": "Skalica - Aquacity Poprad",
+      "1": "1.17",
+      "1-bool": true,
+      "x": "7.25",
+      "x-bool": false,
+      "2": "12.00",
+      "2-bool": false
+    },
+    {
+      "match": "Petrzalka - Kosice",
+      "1": "4.30",
+      "1-bool": false,
+      "x": "3.84",
+      "x-bool": true,
+      "2": "1.80",
+      "2-bool": false
+    },
+    {
+      "match": "Kosice - Slovan Bratislava B",
+      "1": "1.26",
+      "1-bool": true,
+      "x": "6.75",
+      "x-bool": false,
+      "2": "10.00",
+      "2-bool": false
+    },
+    {
+      "match": "Puchov - Banska Bystrica",
+      "1": "3.88",
+      "1-bool": false,
+      "x": "3.94",
+      "x-bool": false,
+      "2": "1.75",
+      "2-bool": true
+    },
+    {
+      "match": "Liptovsky Mikulas - Skalica",
+      "1": "2.41",
+      "1-bool": true,
+      "x": "3.50",
+      "x-bool": false,
+      "2": "2.68",
+      "2-bool": false
+    },
+    {
+      "match": "Zilina B - Slavoj Trebisov",
+      "1": "1.20",
+      "1-bool": false,
+      "x": "6.75",
+      "x-bool": true,
+      "2": "10.75",
+      "2-bool": false
+    },
+    {
+      "match": "Samorin - Komarno",
+      "1": "2.04",
+      "1-bool": false,
+      "x": "3.48",
+      "x-bool": false,
+      "2": "3.30",
+      "2-bool": true
+    },
+    {
+      "match": "Bardejov - Petrzalka",
+      "1": "1.95",
+      "1-bool": false,
+      "x": "3.54",
+      "x-bool": true,
+      "2": "3.55",
+      "2-bool": false
+    },
+    {
+      "match": "Dubnica - Kosice",
+      "1": "3.80",
+      "1-bool": true,
+      "x": "3.70",
+      "x-bool": false,
+      "2": "1.85",
+      "2-bool": false
+    },
+    {
+      "match": "Slavoj Trebisov - Komarno",
+      "1": "2.56",
+      "1-bool": true,
+      "x": "3.44",
+      "x-bool": false,
+      "2": "2.50",
+      "2-bool": false
+    },
+    {
+      "match": "Podbrezova - Liptovsky Mikulas",
+      "1": "1.55",
+      "1-bool": false,
+      "x": "4.50",
+      "x-bool": false,
+      "2": "5.40",
+      "2-bool": true
+    },
+    {
+      "match": "Skalica - Puchov",
+      "1": "1.32",
+      "1-bool": false,
+      "x": "5.30",
+      "x-bool": true,
+      "2": "7.75",
+      "2-bool": false
+    },
+    {
+      "match": "Slovan Bratislava B - Bardejov",
+      "1": "2.60",
+      "1-bool": false,
+      "x": "3.44",
+      "x-bool": false,
+      "2": "2.69",
+      "2-bool": true
+    },
+    {
+      "match": "Petrzalka - Samorin",
+      "1": "1.77",
+      "1-bool": false,
+      "x": "3.54",
+      "x-bool": false,
+      "2": "4.35",
+      "2-bool": true
+    },
+    {
+      "match": "Puchov - Podbrezova",
+      "1": "5.10",
+      "1-bool": true,
+      "x": "4.18",
+      "x-bool": false,
+      "2": "1.60",
+      "2-bool": false
+    },
+    {
+      "match": "Liptovsky Mikulas - Zilina B",
+      "1": "1.30",
+      "1-bool": true,
+      "x": "5.95",
+      "x-bool": false,
+      "2": "8.50",
+      "2-bool": false
+    },
+    {
+      "match": "Aquacity Poprad - Slavoj Trebisov",
+      "1": "2.70",
+      "1-bool": false,
+      "x": "3.54",
+      "x-bool": false,
+      "2": "2.43",
+      "2-bool": true
+    },
+    {
+      "match": "Komarno - Petrzalka",
+      "1": "1.61",
+      "1-bool": true,
+      "x": "3.88",
+      "x-bool": false,
+      "2": "4.85",
+      "2-bool": false
+    },
+    {
+      "match": "Bardejov - Dubnica",
+      "1": "2.21",
+      "1-bool": false,
+      "x": "3.30",
+      "x-bool": true,
+      "2": "3.05",
+      "2-bool": false
+    },
+    {
+      "match": "Kosice - Banska Bystrica",
+      "1": "2.12",
+      "1-bool": false,
+      "x": "3.90",
+      "x-bool": false,
+      "2": "2.96",
+      "2-bool": true
+    },
+    {
+      "match": "Samorin - Slovan Bratislava B",
+      "1": "1.43",
+      "1-bool": true,
+      "x": "4.70",
+      "x-bool": false,
+      "2": "6.75",
+      "2-bool": false
+    },
+    {
+      "match": "Slovan Bratislava B - Komarno",
+      "1": "2.65",
+      "1-bool": true,
+      "x": "4.45",
+      "x-bool": false,
+      "2": "5.45",
+      "2-bool": false
+    },
+    {
+      "match": "Aquacity Poprad - Liptovsky Mikulas",
+      "1": "5.75",
+      "1-bool": false,
+      "x": "5.55",
+      "x-bool": false,
+      "2": "1.50",
+      "2-bool": true
+    },
+    {
+      "match": "Banska Bystrica - Bardejov",
+      "1": "1.21",
+      "1-bool": true,
+      "x": "6.55",
+      "x-bool": false,
+      "2": "10.25",
+      "2-bool": false
+    },
+    {
+      "match": "Slavoj Trebisov - Petrzalka",
+      "1": "2.10",
+      "1-bool": false,
+      "x": "3.38",
+      "x-bool": false,
+      "2": "3.22",
+      "2-bool": true
+    },
+    {
+      "match": "Dubnica - Samorin",
+      "1": "2.10",
+      "1-bool": false,
+      "x": "3.66",
+      "x-bool": false,
+      "2": "3.48",
+      "2-bool": true
+    },
+    {
+      "match": "Zilina B - Puchov",
+      "1": "1.37",
+      "1-bool": true,
+      "x": "5.70",
+      "x-bool": false,
+      "2": "7.10",
+      "2-bool": false
+    },
+    {
+      "match": "Skalica - Kosice",
+      "1": "2.33",
+      "1-bool": true,
+      "x": "3.24",
+      "x-bool": false,
+      "2": "2.90",
+      "2-bool": false
+    },
+    {
+      "match": "Aquacity Poprad - Podbrezova",
+      "1": "8.80",
+      "1-bool": false,
+      "x": "5.75",
+      "x-bool": false,
+      "2": "1.27",
+      "2-bool": true
+    },
+    {
+      "match": "Slovan Bratislava B - Zilina B",
+      "1": "1.64",
+      "1-bool": false,
+      "x": "4.75",
+      "x-bool": false,
+      "2": "4.55",
+      "2-bool": true
+    },
+    {
+      "match": "Liptovsky Mikulas - Slavoj Trebisov",
+      "1": "1.40",
+      "1-bool": true,
+      "x": "4.95",
+      "x-bool": false,
+      "2": "6.85",
+      "2-bool": false
+    },
+    {
+      "match": "Puchov - Aquacity Poprad",
+      "1": "1.14",
+      "1-bool": false,
+      "x": "7.10",
+      "x-bool": false,
+      "2": "14.00",
+      "2-bool": true
+    },
+    {
+      "match": "Komarno - Dubnica",
+      "1": "1.98",
+      "1-bool": false,
+      "x": "3.42",
+      "x-bool": false,
+      "2": "3.95",
+      "2-bool": true
+    },
+    {
+      "match": "Bardejov - Skalica",
+      "1": "4.60",
+      "1-bool": false,
+      "x": "3.62",
+      "x-bool": true,
+      "2": "1.87",
+      "2-bool": false
+    },
+    {
+      "match": "Kosice - Podbrezova",
+      "1": "2.80",
+      "1-bool": true,
+      "x": "3.54",
+      "x-bool": false,
+      "2": "2.30",
+      "2-bool": false
+    },
+    {
+      "match": "Petrzalka - Slovan Bratislava B",
+      "1": "1.45",
+      "1-bool": true,
+      "x": "4.55",
+      "x-bool": false,
+      "2": "6.10",
+      "2-bool": false
+    },
+    {
+      "match": "Samorin - Banska Bystrica",
+      "1": "3.74",
+      "1-bool": false,
+      "x": "3.82",
+      "x-bool": false,
+      "2": "1.85",
+      "2-bool": true
+    },
+    {
+      "match": "Liptovsky Mikulas - Puchov",
+      "1": "1.38",
+      "1-bool": false,
+      "x": "4.15",
+      "x-bool": false,
+      "2": "9.00",
+      "2-bool": true
+    },
+    {
+      "match": "Skalica - Samorin",
+      "1": "1.33",
+      "1-bool": true,
+      "x": "5.25",
+      "x-bool": false,
+      "2": "8.25",
+      "2-bool": false
+    },
+    {
+      "match": "Dubnica - Petrzalka",
+      "1": "2.00",
+      "1-bool": false,
+      "x": "3.62",
+      "x-bool": true,
+      "2": "3.62",
+      "2-bool": false
+    },
+    {
+      "match": "Slavoj Trebisov - Slovan Bratislava B",
+      "1": "1.19",
+      "1-bool": true,
+      "x": "6.20",
+      "x-bool": false,
+      "2": "13.00",
+      "2-bool": false
+    },
+    {
+      "match": "Zilina B - Kosice",
+      "1": "2.80",
+      "1-bool": true,
+      "x": "3.90",
+      "x-bool": false,
+      "2": "2.23",
+      "2-bool": false
+    },
+    {
+      "match": "Banska Bystrica - Komarno",
+      "1": "1.35",
+      "1-bool": true,
+      "x": "4.95",
+      "x-bool": false,
+      "2": "7.30",
+      "2-bool": false
+    },
+    {
+      "match": "Podbrezova - Bardejov",
+      "1": "1.27",
+      "1-bool": false,
+      "x": "5.50",
+      "x-bool": true,
+      "2": "10.00",
+      "2-bool": false
+    },
+    {
+      "match": "Komarno - Skalica",
+      "1": "3.10",
+      "1-bool": false,
+      "x": "3.36",
+      "x-bool": true,
+      "2": "2.22",
+      "2-bool": false
+    },
+    {
+      "match": "Kosice - Aquacity Poprad",
+      "1": "1.15",
+      "1-bool": false,
+      "x": "8.00",
+      "x-bool": false,
+      "2": "12.50",
+      "2-bool": true
+    },
+    {
+      "match": "Puchov - Slavoj Trebisov",
+      "1": "2.02",
+      "1-bool": true,
+      "x": "3.52",
+      "x-bool": false,
+      "2": "3.40",
+      "2-bool": false
+    },
+    {
+      "match": "Slovan Bratislava B - Dubnica",
+      "1": "2.57",
+      "1-bool": false,
+      "x": "3.95",
+      "x-bool": false,
+      "2": "2.58",
+      "2-bool": true
+    },
+    {
+      "match": "Petrzalka - Banska Bystrica",
+      "1": "4.55",
+      "1-bool": false,
+      "x": "3.94",
+      "x-bool": true,
+      "2": "1.65",
+      "2-bool": false
+    },
+    {
+      "match": "Bardejov - Zilina B",
+      "1": "2.16",
+      "1-bool": false,
+      "x": "3.78",
+      "x-bool": false,
+      "2": "3.44",
+      "2-bool": true
+    },
+    {
+      "match": "Samorin - Podbrezova",
+      "1": "4.10",
+      "1-bool": false,
+      "x": "3.70",
+      "x-bool": false,
+      "2": "1.78",
+      "2-bool": true
+    },
+    {
+      "match": "Zilina B - Aquacity Poprad",
+      "1": "1.17",
+      "1-bool": true,
+      "x": "7.10",
+      "x-bool": false,
+      "2": "12.00",
+      "2-bool": false
+    },
+    {
+      "match": "Slavoj Trebisov - Dubnica",
+      "1": "2.03",
+      "1-bool": true,
+      "x": "3.46",
+      "x-bool": false,
+      "2": "3.35",
+      "2-bool": false
+    },
+    {
+      "match": "Bardejov - Aquacity Poprad",
+      "1": "1.18",
+      "1-bool": true,
+      "x": "7.10",
+      "x-bool": false,
+      "2": "13.50",
+      "2-bool": false
+    },
+    {
+      "match": "Samorin - Zilina B",
+      "1": "1.90",
+      "1-bool": false,
+      "x": "3.90",
+      "x-bool": true,
+      "2": "3.75",
+      "2-bool": false
+    },
+    {
+      "match": "Kosice - Liptovsky Mikulas",
+      "1": "1.70",
+      "1-bool": false,
+      "x": "3.90",
+      "x-bool": false,
+      "2": "4.70",
+      "2-bool": true
+    },
+    {
+      "match": "Petrzalka - Skalica",
+      "1": "3.42",
+      "1-bool": false,
+      "x": "3.54",
+      "x-bool": true,
+      "2": "1.95",
+      "2-bool": false
+    },
+    {
+      "match": "Slovan Bratislava B - Banska Bystrica",
+      "1": "6.00",
+      "1-bool": true,
+      "x": "4.95",
+      "x-bool": false,
+      "2": "1.66",
+      "2-bool": false
+    },
+    {
+      "match": "Liptovsky Mikulas - Bardejov",
+      "1": "1.34",
+      "1-bool": false,
+      "x": "5.25",
+      "x-bool": true,
+      "2": "7.40",
+      "2-bool": false
+    },
+    {
+      "match": "Banska Bystrica - Dubnica",
+      "1": "1.20",
+      "1-bool": true,
+      "x": "6.70",
+      "x-bool": false,
+      "2": "11.50",
+      "2-bool": false
+    },
+    {
+      "match": "Podbrezova - Petrzalka",
+      "1": "1.31",
+      "1-bool": true,
+      "x": "5.50",
+      "x-bool": false,
+      "2": "8.25",
+      "2-bool": false
+    },
+    {
+      "match": "Puchov - Kosice",
+      "1": "4.15",
+      "1-bool": false,
+      "x": "3.45",
+      "x-bool": false,
+      "2": "1.84",
+      "2-bool": true
+    },
+    {
+      "match": "Skalica - Slovan Bratislava B",
+      "1": "1.14",
+      "1-bool": false,
+      "x": "7.70",
+      "x-bool": false,
+      "2": "15.00",
+      "2-bool": true
+    },
+    {
+      "match": "Aquacity Poprad - Samorin",
+      "1": "10.00",
+      "1-bool": false,
+      "x": "6.15",
+      "x-bool": false,
+      "2": "1.25",
+      "2-bool": true
+    },
+    {
+      "match": "Petrzalka - Zilina B",
+      "1": "1.71",
+      "1-bool": true,
+      "x": "4.15",
+      "x-bool": false,
+      "2": "3.98",
+      "2-bool": false
+    },
+    {
+      "match": "Slavoj Trebisov - Banska Bystrica",
+      "1": "6.15",
+      "1-bool": false,
+      "x": "4.70",
+      "x-bool": true,
+      "2": "1.42",
+      "2-bool": false
+    },
+    {
+      "match": "Dubnica - Skalica",
+      "1": "3.30",
+      "1-bool": false,
+      "x": "3.48",
+      "x-bool": true,
+      "2": "2.04",
+      "2-bool": false
+    },
+    {
+      "match": "Bardejov - Puchov",
+      "1": "2.25",
+      "1-bool": false,
+      "x": "3.22",
+      "x-bool": true,
+      "2": "3.26",
+      "2-bool": false
+    },
+    {
+      "match": "Samorin - Liptovsky Mikulas",
+      "1": "2.89",
+      "1-bool": false,
+      "x": "3.60",
+      "x-bool": false,
+      "2": "2.38",
+      "2-bool": true
+    },
+    {
+      "match": "Liptovsky Mikulas - Komarno",
+      "1": "1.53",
+      "1-bool": false,
+      "x": "4.48",
+      "x-bool": true,
+      "2": "5.60",
+      "2-bool": false
+    },
+    {
+      "match": "Podbrezova - Dubnica",
+      "1": "1.30",
+      "1-bool": true,
+      "x": "5.25",
+      "x-bool": false,
+      "2": "8.80",
+      "2-bool": false
+    },
+    {
+      "match": "Aquacity Poprad - Petrzalka",
+      "1": "12.00",
+      "1-bool": false,
+      "x": "7.00",
+      "x-bool": false,
+      "2": "1.14",
+      "2-bool": true
+    },
+    {
+      "match": "Kosice - Slavoj Trebisov",
+      "1": "1.57",
+      "1-bool": true,
+      "x": "4.10",
+      "x-bool": false,
+      "2": "5.30",
+      "2-bool": false
+    },
+    {
+      "match": "Puchov - Samorin",
+      "1": "2.28",
+      "1-bool": false,
+      "x": "3.24",
+      "x-bool": true,
+      "2": "3.00",
+      "2-bool": false
+    },
+    {
+      "match": "Skalica - Banska Bystrica",
+      "1": "3.42",
+      "1-bool": true,
+      "x": "3.52",
+      "x-bool": false,
+      "2": "2.13",
+      "2-bool": false
+    },
+    {
+      "match": "Zilina B - Slovan Bratislava B",
+      "1": "1.34",
+      "1-bool": true,
+      "x": "6.55",
+      "x-bool": false,
+      "2": "6.50",
+      "2-bool": false
+    },
+    {
+      "match": "Komarno - Podbrezova",
+      "1": "4.06",
+      "1-bool": true,
+      "x": "3.60",
+      "x-bool": false,
+      "2": "1.80",
+      "2-bool": false
+    },
+    {
+      "match": "Banska Bystrica - Podbrezova",
+      "1": "1.89",
+      "1-bool": true,
+      "x": "3.82",
+      "x-bool": false,
+      "2": "3.55",
+      "2-bool": false
+    },
+    {
+      "match": "Dubnica - Zilina B",
+      "1": "1.98",
+      "1-bool": false,
+      "x": "3.72",
+      "x-bool": true,
+      "2": "3.30",
+      "2-bool": false
+    },
+    {
+      "match": "Komarno - Puchov",
+      "1": "1.57",
+      "1-bool": false,
+      "x": "3.90",
+      "x-bool": false,
+      "2": "5.75",
+      "2-bool": true
+    },
+    {
+      "match": "Bardejov - Kosice",
+      "1": "3.84",
+      "1-bool": false,
+      "x": "3.60",
+      "x-bool": false,
+      "2": "1.85",
+      "2-bool": true
+    },
+    {
+      "match": "Petrzalka - Liptovsky Mikulas",
+      "1": "3.05",
+      "1-bool": false,
+      "x": "3.42",
+      "x-bool": true,
+      "2": "2.18",
+      "2-bool": false
+    },
+    {
+      "match": "Slovan Bratislava B - Aquacity Poprad",
+      "1": "1.23",
+      "1-bool": true,
+      "x": "6.00",
+      "x-bool": false,
+      "2": "10.00",
+      "2-bool": false
+    },
+    {
+      "match": "Zilina B - Komarno",
+      "1": "1.43",
+      "1-bool": false,
+      "x": "4.66",
+      "x-bool": true,
+      "2": "6.00",
+      "2-bool": false
+    },
+    {
+      "match": "Puchov - Petrzalka",
+      "1": "2.62",
+      "1-bool": true,
+      "x": "3.13",
+      "x-bool": false,
+      "2": "2.60",
+      "2-bool": false
+    },
+    {
+      "match": "Kosice - Samorin",
+      "1": "1.47",
+      "1-bool": true,
+      "x": "4.42",
+      "x-bool": false,
+      "2": "6.50",
+      "2-bool": false
+    },
+    {
+      "match": "Aquacity Poprad - Dubnica",
+      "1": "10.70",
+      "1-bool": false,
+      "x": "6.98",
+      "x-bool": false,
+      "2": "1.20",
+      "2-bool": true
+    },
+    {
+      "match": "Podbrezova - Skalica",
+      "1": "1.77",
+      "1-bool": true,
+      "x": "3.80",
+      "x-bool": false,
+      "2": "4.50",
+      "2-bool": false
+    },
+    {
+      "match": "Liptovsky Mikulas - Slovan Bratislava B",
+      "1": "1.24",
+      "1-bool": true,
+      "x": "6.00",
+      "x-bool": false,
+      "2": "9.40",
+      "2-bool": false
+    },
+    {
+      "match": "Zilina B - Banska Bystrica",
+      "1": "2.98",
+      "1-bool": false,
+      "x": "4.10",
+      "x-bool": false,
+      "2": "2.10",
+      "2-bool": true
+    },
+    {
+      "match": "Slovan Bratislava B - Puchov",
+      "1": "1.66",
+      "1-bool": true,
+      "x": "4.82",
+      "x-bool": false,
+      "2": "4.28",
+      "2-bool": false
+    },
+    {
+      "match": "Komarno - Kosice",
+      "1": "3.00",
+      "1-bool": true,
+      "x": "3.20",
+      "x-bool": false,
+      "2": "2.52",
+      "2-bool": false
+    },
+    {
+      "match": "Dubnica - Liptovsky Mikulas",
+      "1": "3.70",
+      "1-bool": false,
+      "x": "3.64",
+      "x-bool": false,
+      "2": "1.98",
+      "2-bool": true
+    },
+    {
+      "match": "Banska Bystrica - Aquacity Poprad",
+      "1": "1.04",
+      "1-bool": true,
+      "x": "14.00",
+      "x-bool": false,
+      "2": "23.00",
+      "2-bool": false
+    },
+    {
+      "match": "Skalica - Zilina B",
+      "1": "2.96",
+      "1-bool": true,
+      "x": "4.04",
+      "x-bool": false,
+      "2": "3.40",
+      "2-bool": false
+    },
+    {
+      "match": "Samorin - Bardejov",
+      "1": "1.39",
+      "1-bool": true,
+      "x": "5.00",
+      "x-bool": false,
+      "2": "7.50",
+      "2-bool": false
+    },
+    {
+      "match": "Slavoj Trebisov - Skalica",
+      "1": "3.50",
+      "1-bool": false,
+      "x": "3.54",
+      "x-bool": true,
+      "2": "2.19",
+      "2-bool": false
+    },
+    {
+      "match": "Kosice - Petrzalka",
+      "1": "1.74",
+      "1-bool": false,
+      "x": "3.65",
+      "x-bool": false,
+      "2": "4.25",
+      "2-bool": true
+    },
+    {
+      "match": "Liptovsky Mikulas - Banska Bystrica",
+      "1": "2.39",
+      "1-bool": true,
+      "x": "3.74",
+      "x-bool": false,
+      "2": "2.60",
+      "2-bool": false
+    },
+    {
+      "match": "Puchov - Dubnica",
+      "1": "1.86",
+      "1-bool": false,
+      "x": "3.60",
+      "x-bool": false,
+      "2": "4.00",
+      "2-bool": true
+    },
+    {
+      "match": "Bardejov - Komarno",
+      "1": "3.41",
+      "1-bool": false,
+      "x": "3.41",
+      "x-bool": true,
+      "2": "2.10",
+      "2-bool": false
+    },
+    {
+      "match": "Aquacity Poprad - Skalica",
+      "1": "16.00",
+      "1-bool": false,
+      "x": "11.00",
+      "x-bool": false,
+      "2": "1.10",
+      "2-bool": true
+    },
+    {
+      "match": "Zilina B - Podbrezova",
+      "1": "7.03",
+      "1-bool": false,
+      "x": "5.25",
+      "x-bool": false,
+      "2": "1.40",
+      "2-bool": true
+    },
+    {
+      "match": "Samorin - Slavoj Trebisov",
+      "1": "1.62",
+      "1-bool": true,
+      "x": "3.98",
+      "x-bool": false,
+      "2": "5.25",
+      "2-bool": false
+    },
+    {
+      "match": "Bardejov - Slavoj Trebisov",
+      "1": "2.50",
+      "1-bool": false,
+      "x": "3.42",
+      "x-bool": true,
+      "2": "2.70",
+      "2-bool": false
+    },
+    {
+      "match": "Slovan Bratislava B - Kosice",
+      "1": "4.45",
+      "1-bool": false,
+      "x": "4.40",
+      "x-bool": false,
+      "2": "1.63",
+      "2-bool": true
+    },
+    {
+      "match": "Banska Bystrica - Puchov",
+      "1": "1.25",
+      "1-bool": true,
+      "x": "6.10",
+      "x-bool": false,
+      "2": "9.50",
+      "2-bool": false
+    },
+    {
+      "match": "Podbrezova - Aquacity Poprad",
+      "1": "1.03",
+      "1-bool": true,
+      "x": "16.00",
+      "x-bool": false,
+      "2": "30.00",
+      "2-bool": false
+    },
+    {
+      "match": "Komarno - Samorin",
+      "1": "2.02",
+      "1-bool": false,
+      "x": "3.38",
+      "x-bool": false,
+      "2": "3.46",
+      "2-bool": true
+    },
+    {
+      "match": "Skalica - Liptovsky Mikulas",
+      "1": "1.94",
+      "1-bool": true,
+      "x": "3.48",
+      "x-bool": false,
+      "2": "3.62",
+      "2-bool": false
+    },
+    {
+      "match": "Slavoj Trebisov - Zilina B",
+      "1": "1.89",
+      "1-bool": true,
+      "x": "3.86",
+      "x-bool": false,
+      "2": "3.60",
+      "2-bool": false
+    },
+    {
+      "match": "Petrzalka - Bardejov",
+      "1": "1.51",
+      "1-bool": true,
+      "x": "4.25",
+      "x-bool": false,
+      "2": "6.00",
+      "2-bool": false
+    },
+    {
+      "match": "Bardejov - Slovan Bratislava B",
+      "1": "1.44",
+      "1-bool": true,
+      "x": "4.75",
+      "x-bool": false,
+      "2": "5.85",
+      "2-bool": false
+    },
+    {
+      "match": "Liptovsky Mikulas - Podbrezova",
+      "1": "2.78",
+      "1-bool": false,
+      "x": "3.42",
+      "x-bool": true,
+      "2": "2.36",
+      "2-bool": false
+    },
+    {
+      "match": "Puchov - Skalica",
+      "1": "3.52",
+      "1-bool": false,
+      "x": "3.50",
+      "x-bool": true,
+      "2": "1.96",
+      "2-bool": false
+    },
+    {
+      "match": "Komarno - Slavoj Trebisov",
+      "1": "1.71",
+      "1-bool": true,
+      "x": "3.72",
+      "x-bool": false,
+      "2": "4.50",
+      "2-bool": false
+    },
+    {
+      "match": "Kosice - Dubnica",
+      "1": "1.44",
+      "1-bool": true,
+      "x": "4.50",
+      "x-bool": false,
+      "2": "6.45",
+      "2-bool": false
+    },
+    {
+      "match": "Aquacity Poprad - Zilina B",
+      "1": "12.00",
+      "1-bool": false,
+      "x": "8.19",
+      "x-bool": false,
+      "2": "1.16",
+      "2-bool": true
+    },
+    {
+      "match": "Samorin - Petrzalka",
+      "1": "1.85",
+      "1-bool": true,
+      "x": "3.75",
+      "x-bool": false,
+      "2": "3.82",
+      "2-bool": false
+    },
+    {
+      "match": "Slavoj Trebisov - Podbrezova",
+      "1": "5.86",
+      "1-bool": false,
+      "x": "4.10",
+      "x-bool": true,
+      "2": "1.53",
+      "2-bool": false
+    },
+    {
+      "match": "Slovan Bratislava B - Samorin",
+      "1": "5.59",
+      "1-bool": false,
+      "x": "4.90",
+      "x-bool": false,
+      "2": "1.52",
+      "2-bool": true
+    },
+    {
+      "match": "Banska Bystrica - Kosice",
+      "1": "1.63",
+      "1-bool": true,
+      "x": "4.16",
+      "x-bool": false,
+      "2": "4.60",
+      "2-bool": false
+    },
+    {
+      "match": "Podbrezova - Puchov",
+      "1": "1.28",
+      "1-bool": true,
+      "x": "5.50",
+      "x-bool": false,
+      "2": "9.00",
+      "2-bool": false
+    },
+    {
+      "match": "Slavoj Trebisov - Aquacity Poprad",
+      "1": "1.06",
+      "1-bool": true,
+      "x": "12.00",
+      "x-bool": false,
+      "2": "33.00",
+      "2-bool": false
+    },
+    {
+      "match": "Zilina B - Liptovsky Mikulas",
+      "1": "3.36",
+      "1-bool": false,
+      "x": "3.65",
+      "x-bool": true,
+      "2": "1.96",
+      "2-bool": false
+    },
+    {
+      "match": "Dubnica - Bardejov",
+      "1": "2.03",
+      "1-bool": false,
+      "x": "3.40",
+      "x-bool": true,
+      "2": "3.42",
+      "2-bool": false
+    },
+    {
+      "match": "Petrzalka - Komarno",
+      "1": "2.02",
+      "1-bool": false,
+      "x": "3.52",
+      "x-bool": false,
+      "2": "3.35",
+      "2-bool": true
+    },
+    {
+      "match": "Kosice - Skalica",
+      "1": "2.34",
+      "1-bool": true,
+      "x": "3.42",
+      "x-bool": false,
+      "2": "2.83",
+      "2-bool": false
+    },
+    {
+      "match": "Komarno - Slovan Bratislava B",
+      "1": "1.19",
+      "1-bool": true,
+      "x": "6.75",
+      "x-bool": false,
+      "2": "12.50",
+      "2-bool": false
+    },
+    {
+      "match": "Liptovsky Mikulas - Aquacity Poprad",
+      "1": "1.06",
+      "1-bool": true,
+      "x": "11.00",
+      "x-bool": false,
+      "2": "25.00",
+      "2-bool": false
+    },
+    {
+      "match": "Samorin - Dubnica",
+      "1": "1.63",
+      "1-bool": true,
+      "x": "4.10",
+      "x-bool": false,
+      "2": "4.58",
+      "2-bool": false
+    },
+    {
+      "match": "Petrzalka - Slavoj Trebisov",
+      "1": "1.65",
+      "1-bool": false,
+      "x": "4.10",
+      "x-bool": false,
+      "2": "4.45",
+      "2-bool": true
+    },
+    {
+      "match": "Bardejov - Banska Bystrica",
+      "1": "6.35",
+      "1-bool": true,
+      "x": "4.44",
+      "x-bool": false,
+      "2": "1.46",
+      "2-bool": false
+    },
+    {
+      "match": "Puchov - Zilina B",
+      "1": "2.31",
+      "1-bool": true,
+      "x": "3.55",
+      "x-bool": false,
+      "2": "2.70",
+      "2-bool": false
+    },
+    {
+      "match": "Slovan Bratislava B - Petrzalka",
+      "1": "5.60",
+      "1-bool": true,
+      "x": "5.50",
+      "x-bool": false,
+      "2": "1.44",
+      "2-bool": false
+    },
+    {
+      "match": "Podbrezova - Kosice",
+      "1": "1.40",
+      "1-bool": false,
+      "x": "4.78",
+      "x-bool": true,
+      "2": "7.75",
+      "2-bool": false
+    },
+    {
+      "match": "Aquacity Poprad - Puchov",
+      "1": "11.50",
+      "1-bool": false,
+      "x": "6.80",
+      "x-bool": false,
+      "2": "1.18",
+      "2-bool": true
+    },
+    {
+      "match": "Slavoj Trebisov - Liptovsky Mikulas",
+      "1": "3.45",
+      "1-bool": false,
+      "x": "3.90",
+      "x-bool": false,
+      "2": "2.03",
+      "2-bool": true
+    },
+    {
+      "match": "Dubnica - Komarno",
+      "1": "2.08",
+      "1-bool": true,
+      "x": "3.75",
+      "x-bool": false,
+      "2": "3.35",
+      "2-bool": false
+    },
+    {
+      "match": "Banska Bystrica - Samorin",
+      "1": "1.37",
+      "1-bool": false,
+      "x": "5.25",
+      "x-bool": true,
+      "2": "7.57",
+      "2-bool": false
+    },
+    {
+      "match": "Skalica - Bardejov",
+      "1": "1.51",
+      "1-bool": true,
+      "x": "4.45",
+      "x-bool": false,
+      "2": "5.99",
+      "2-bool": false
+    },
+    {
+      "match": "Puchov - Liptovsky Mikulas",
+      "1": "4.85",
+      "1-bool": false,
+      "x": "3.98",
+      "x-bool": false,
+      "2": "1.67",
+      "2-bool": true
+    },
+    {
+      "match": "Slovan Bratislava B - Slavoj Trebisov",
+      "1": "3.62",
+      "1-bool": true,
+      "x": "4.30",
+      "x-bool": false,
+      "2": "1.81",
+      "2-bool": false
+    },
+    {
+      "match": "Bardejov - Podbrezova",
+      "1": "2.86",
+      "1-bool": false,
+      "x": "3.50",
+      "x-bool": false,
+      "2": "2.50",
+      "2-bool": true
+    },
+    {
+      "match": "Komarno - Banska Bystrica",
+      "1": "4.55",
+      "1-bool": false,
+      "x": "4.18",
+      "x-bool": true,
+      "2": "1.67",
+      "2-bool": false
+    },
+    {
+      "match": "Samorin - Skalica",
+      "1": "2.22",
+      "1-bool": false,
+      "x": "3.76",
+      "x-bool": false,
+      "2": "2.95",
+      "2-bool": true
+    },
+    {
+      "match": "Petrzalka - Dubnica",
+      "1": "2.05",
+      "1-bool": false,
+      "x": "3.60",
+      "x-bool": true,
+      "2": "3.15",
+      "2-bool": false
+    },
+    {
+      "match": "Kosice - Zilina B",
+      "1": "1.62",
+      "1-bool": true,
+      "x": "4.34",
+      "x-bool": false,
+      "2": "4.75",
+      "2-bool": false
+    },
+    {
+      "match": "Aquacity Poprad - Kosice",
+      "1": "10.50",
+      "1-bool": false,
+      "x": "7.90",
+      "x-bool": true,
+      "2": "1.16",
+      "2-bool": false
+    },
+    {
+      "match": "Banska Bystrica - Petrzalka",
+      "1": "1.35",
+      "1-bool": false,
+      "x": "4.85",
+      "x-bool": false,
+      "2": "7.50",
+      "2-bool": true
+    },
+    {
+      "match": "Skalica - Komarno",
+      "1": "1.42",
+      "1-bool": true,
+      "x": "4.40",
+      "x-bool": false,
+      "2": "7.00",
+      "2-bool": false
+    },
+    {
+      "match": "Podbrezova - Samorin",
+      "1": "1.36",
+      "1-bool": false,
+      "x": "5.00",
+      "x-bool": true,
+      "2": "7.90",
+      "2-bool": false
+    },
+    {
+      "match": "Dubnica - Slovan Bratislava B",
+      "1": "1.42",
+      "1-bool": true,
+      "x": "5.75",
+      "x-bool": false,
+      "2": "6.95",
+      "2-bool": false
+    },
+    {
+      "match": "Slavoj Trebisov - Puchov",
+      "1": "2.10",
+      "1-bool": false,
+      "x": "3.64",
+      "x-bool": true,
+      "2": "3.20",
+      "2-bool": false
+    },
+    {
+      "match": "Zilina B - Bardejov",
+      "1": "1.10",
+      "1-bool": true,
+      "x": "8.75",
+      "x-bool": false,
+      "2": "18.00",
+      "2-bool": false
+    }
+  ]
+]
