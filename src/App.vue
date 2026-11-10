@@ -66,18 +66,18 @@
                 >
               </span>
               <span
-                v-if="oddsInsights && oddsInsights.hasOwnProperty('count')"
+                v-if="oddsInsights && Object.prototype.hasOwnProperty.call(oddsInsights, 'count')"
                 class="text-xxs spacing-left-sm"
                 >| all match events: {{ allMatchEventsCount }}</span
               >
               <span
-                v-if="oddsInsights && oddsInsights.hasOwnProperty('mean')"
+                v-if="oddsInsights && Object.prototype.hasOwnProperty.call(oddsInsights, 'mean')"
                 class="text-xxs spacing-left-sm"
               >
                 | mean av.: {{ oddsInsights.mean }}</span
               >
               <span
-                v-if="oddsInsights && oddsInsights.hasOwnProperty('median')"
+                v-if="oddsInsights && Object.prototype.hasOwnProperty.call(oddsInsights, 'median')"
                 class="text-xxs spacing-left-sm"
               >
                 | median av.: {{ oddsInsights.median }}</span
@@ -274,17 +274,17 @@
               <span>| converted: {{ insights.convertedodds.length }}</span>
             </span>
             <span
-              v-if="oddsInsights && oddsInsights.hasOwnProperty('count')"
+              v-if="oddsInsights && Object.prototype.hasOwnProperty.call(oddsInsights, 'count')"
               class="text-xxs spacing-left-sm"
               >| all match events: {{ allMatchEventsCount }}</span
             >
             <span
-              v-if="oddsInsights && oddsInsights.hasOwnProperty('mean')"
+              v-if="oddsInsights && Object.prototype.hasOwnProperty.call(oddsInsights, 'mean')"
               class="text-xxs spacing-left-sm"
               >| mean av.: {{ oddsInsights.mean }}</span
             >
             <span
-              v-if="oddsInsights && oddsInsights.hasOwnProperty('median')"
+              v-if="oddsInsights && Object.prototype.hasOwnProperty.call(oddsInsights, 'median')"
               class="text-xxs spacing-left-sm"
             >
               | median av.: {{ oddsInsights.median }}</span
